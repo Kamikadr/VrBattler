@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>d107f4c5ec99df605f9f8b3f422b1f92dc75b9c9</guid>
+	<type>node</type>
+	<hash>a2e6636d</hash>
+	<runtimes>
+		<runtime id="d107f4c5ec99df605f9f8b3f422b1f92dc75b9c9" name="vr_layer.node" link="0" type="3"/>
+	</runtimes>
+</asset>

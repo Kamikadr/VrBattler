@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>358cf14fad73ae622a5bda594ec97fe402e349f3</guid>
+	<type>component</type>
+	<hash>a7b857c1</hash>
+	<runtimes>
+		<runtime id="358cf14fad73ae622a5bda594ec97fe402e349f3" name="VRNodeSwitchEnableByKey.cs" link="0"/>
+		<runtime id="4431a30d66306908f88578c7d4c45f7a9b5c6891" name="VRNodeSwitchEnableByKey.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

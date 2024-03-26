@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.18.0.1">
+	<node type="NodeDummy" id="1049840307" name="vive_pad">
+		<transform>1 2.646978e-22 -3.8213714e-15 0.0 9.2644229e-23 1 8.7422777e-08 0.0 3.8213714e-15 -8.7422777e-08 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1697124470" immovable="1" name="vive_pad">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://eb699be07dc71dbfdd0c9012893b7049da51bd14</mesh_name>
+			<surface name="vive_pad_mat" intersection="1" material="ed7107044398b39d2fe07e2cbbdf06935f850a1a"/>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			<node type="ObjectMeshStatic" id="1905053021" immovable="1" name="vive_trigger">
+				<streaming_mode_vram>0</streaming_mode_vram>
+				<streaming_mode_ram>0</streaming_mode_ram>
+				<mesh_name>guid://5adf8563ef992b66ab76cb8d275677885bbb3547</mesh_name>
+				<surface name="vive_pad_mat" intersection="1" material="ed7107044398b39d2fe07e2cbbdf06935f850a1a"/>
+				<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 2.5705137e-07 -0.039276093 -0.018286481 1.0</transform>
+			</node>
+		</node>
+	</node>
+</nodes>

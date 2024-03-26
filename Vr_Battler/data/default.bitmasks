@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bit_mask_names>
+	<physics_intersection>
+		<name index="1">vr_ray_intersection</name>
+		<name index="2">vr_teleportation_mask</name>
+	</physics_intersection>
+	<intersection>
+		<name index="0">Intersection Mask 0</name>
+		<name index="1">Intersection Mask 1</name>
+		<name index="2">Intersection Mask 2</name>
+	</intersection>
+	<collision>
+		<name index="1">vr_interaction</name>
+		<name index="2">vr_grab_collision</name>
+	</collision>
+</bit_mask_names>

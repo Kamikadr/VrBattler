@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>a6942df138cc4e9c335d194b68901e2eea44cfb5</guid>
+	<type>component</type>
+	<hash>08bbed03</hash>
+	<runtimes>
+		<runtime id="a6942df138cc4e9c335d194b68901e2eea44cfb5" name="VRAttachToHead.cs" link="0"/>
+		<runtime id="e3483b9f616254729b34a9299e82e07459d69143" name="VRAttachToHead.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>1892fefcf41a4e2bbf1d0d8ed72d37959b6d23f0</guid>
+	<type>component</type>
+	<hash>e00b6e81</hash>
+	<runtimes>
+		<runtime id="1892fefcf41a4e2bbf1d0d8ed72d37959b6d23f0" name="InputSystem.cs" link="0"/>
+		<runtime id="53961ef6516a89dd485b019853889817c136d68a" name="InputSystem.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

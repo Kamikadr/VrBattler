@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.18.0.1" name="VRLaserPointer" guid="c2b79fc0e328901f01f19ef220aa71a9e7e10ef4" parent="07186cadf0de66280e5613672797f99a2ca3fc31" editable="0">
+	<parameter name="laser" type="node" title="Laser" group="VR Laser Pointer"/>
+	<parameter name="laserRay" type="node" title="Laser Ray" group="VR Laser Pointer"/>
+	<parameter name="laserHit" type="node" title="Laser Hit" group="VR Laser Pointer"/>
+	<parameter name="objText" type="node" title="Object Text" group="VR Laser Pointer" filter="ObjectText"/>
+</property>

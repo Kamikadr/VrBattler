@@ -1,0 +1,9 @@
+{
+	"asset": "631b41af8b140342973169b9ed2207c498657053",
+	"alias": "vive_pad.node",
+	"primary": 1,
+	"version": "2.18.0.1",
+	"parameters": {
+		"UnigineEditor.AssetHash": "f6db576"
+	}
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>bf7f143e9201ae855d0ace20653c2aff8c85bc52</guid>
+	<type>material</type>
+	<hash>ca3fe18a</hash>
+	<runtimes>
+		<runtime id="bf7f143e9201ae855d0ace20653c2aff8c85bc52" name="menu_ray" link="0" type="5"/>
+	</runtimes>
+</asset>

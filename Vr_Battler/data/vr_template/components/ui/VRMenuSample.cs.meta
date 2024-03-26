@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>9dc6d10ee1312515dfc1337099ad300fbcd75e22</guid>
+	<type>component</type>
+	<hash>ca8f369a</hash>
+	<runtimes>
+		<runtime id="9dc6d10ee1312515dfc1337099ad300fbcd75e22" name="VRMenuSample.cs" link="0"/>
+		<runtime id="4b656d682954f1a7c756c2daf4c3b471434d231c" name="VRMenuSample.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.18.0.1" name="TeleportationMovement" guid="7d978265b6f1d0803c4989df0fe0cdb2b3305169" parent="8620ca97e590670a7dcc2ae128dbc6cc4ab953bb" editable="0">
+	<parameter name="rayIntersectionMask" type="mask" title="Ray Intersection Mask" group="Teleportation" flags="intersection">1</parameter>
+	<parameter name="teleportationMask" type="mask" title="Teleportation Mask" group="Teleportation" flags="intersection">1</parameter>
+	<parameter name="maxDistance" type="float" title="Max Distance" group="Teleportation" min="0">10</parameter>
+	<parameter name="allowedPoint" type="node" title="Allowed Point" group="Teleportation"/>
+	<parameter name="forbiddenPoint" type="node" title="Forbidden Point" group="Teleportation"/>
+	<parameter name="allowedMaterial" type="material" title="Allowed Material" group="Teleportation"/>
+	<parameter name="forbiddenMaterial" type="material" title="Forbidden Material" group="Teleportation"/>
+	<parameter name="rayWidth" type="float" title="Ray Width" group="Teleportation" min="0">0.0250000004</parameter>
+	<parameter name="startPoint" type="vec3" title="Start Point Offset" group="Teleportation">0 0 0</parameter>
+</property>

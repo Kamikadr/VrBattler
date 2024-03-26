@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.18.0.1" name="VRAttachToHead" guid="e3483b9f616254729b34a9299e82e07459d69143" parent="657ecdbbfc83135a26777f86012da3587b67be0c" editable="0">
+	<parameter name="distance" type="double" title="Distance" group="VR Attach To Head">0.34999999403953552</parameter>
+	<parameter name="nodeForwardDirectionAxis" type="switch" title="Node Forward Direction Axis" group="VR Attach To Head" items="X,Y,Z,NX,NY,NZ">1</parameter>
+	<parameter name="fixedPosition" type="toggle" title="Fixed Position" group="VR Attach To Head">0</parameter>
+	<parameter name="updatePosition" type="toggle" title="Update Position On Enable" tooltip="Move Node In Front Of Face On Enable" group="VR Attach To Head" fixedPosition="1">0</parameter>
+</property>

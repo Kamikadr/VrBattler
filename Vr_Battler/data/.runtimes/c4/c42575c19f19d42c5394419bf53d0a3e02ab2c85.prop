@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.18.0.1" name="VRBaseInput" guid="c42575c19f19d42c5394419bf53d0a3e02ab2c85" parent="657ecdbbfc83135a26777f86012da3587b67be0c" editable="0">
+	<parameter name="inputName" type="string" title="Input Name" group="Name"/>
+	<parameter name="leftControllerPresets" type="array" title="Left Controller Presets" group="Input Presets" array_type="property" filter="7a92b22a4ef8bb81a95edeec681e4d5b26ae22fe" flags="internal"/>
+	<parameter name="rightControllerPresets" type="array" title="Right Controller Presets" group="Input Presets" array_type="property" filter="7a92b22a4ef8bb81a95edeec681e4d5b26ae22fe" flags="internal"/>
+	<parameter name="generalPresets" type="array" title="General Presets" group="Input Presets" array_type="property" filter="2fe33f7b69472e9e7f0d4565c09eb7802d1b44df" flags="internal"/>
+</property>

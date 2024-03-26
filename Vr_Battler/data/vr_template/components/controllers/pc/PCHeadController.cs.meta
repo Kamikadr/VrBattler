@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>9514babd4d58bcf8f9735bf7d90e08eab88ca341</guid>
+	<type>component</type>
+	<hash>defe9adc</hash>
+	<runtimes>
+		<runtime id="9514babd4d58bcf8f9735bf7d90e08eab88ca341" name="PCHeadController.cs" link="0"/>
+		<runtime id="9de1ce4f5ed0e762e1cdbf595dd020e4235f76f3" name="PCHeadController.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

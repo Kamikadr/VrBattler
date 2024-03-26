@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.18.0.1">
+	<node type="NodeDummy" id="1593675745" name="laser_pointer">
+		<transform>1 2.646978e-22 -3.8213714e-15 0.0 9.2644229e-23 1 8.7422777e-08 0.0 3.8213714e-15 -8.7422777e-08 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="597419980" immovable="1" name="laser_pointer">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://b5c55422688a1e8698f4a6eb113fc82e21531841</mesh_name>
+			<surface name="laser_pointer_mat" intersection="1" material="1ee26f876d5a5ee1d94b25e45f70dd1d7494fa9e"/>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			<node type="ObjectMeshStatic" id="1285619899" immovable="1" name="laser_pointer_button">
+				<streaming_mode_vram>0</streaming_mode_vram>
+				<streaming_mode_ram>0</streaming_mode_ram>
+				<mesh_name>guid://808b3c7a9eaf511c019ca8d0a878ba8f1e9bebb0</mesh_name>
+				<surface name="laser_pointer_mat" intersection="1" material="1ee26f876d5a5ee1d94b25e45f70dd1d7494fa9e"/>
+				<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 -3.0579941e-09 0.024261784 0.014145635 1.0</transform>
+			</node>
+		</node>
+	</node>
+</nodes>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>27ceb6266837574d1a8c1048fb1077072b60c8ba</guid>
+	<type>component</type>
+	<hash>65c12d6d</hash>
+	<runtimes>
+		<runtime id="27ceb6266837574d1a8c1048fb1077072b60c8ba" name="VRControllerInput.cs" link="0"/>
+		<runtime id="966f78f019b7b78faadd3fa247d7ba990fad6324" name="VRControllerInput.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

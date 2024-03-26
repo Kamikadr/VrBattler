@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.18.0.1" name="VRHandMenuInteraction" guid="99fe91cbb9463cae8e2b5c35bc8cc010a5ab142f" parent="841c0b473848cffa6a691f118ecf4d3ca097c76b" editable="0">
+	<parameter name="maxDistance" type="float" title="Max Distance" group="Hand Menu Interaction" min="0">10</parameter>
+	<parameter name="rayMaterial" type="material" title="Menu Ray Material" group="Hand Menu Interaction"/>
+	<parameter name="rayWidth" type="float" title="Ray Width" group="Hand Menu Interaction" min="0">0.00999999978</parameter>
+	<parameter name="excludeNodes" type="array" title="Exclude Nodes" group="Hand Menu Interaction" array_type="node"/>
+</property>

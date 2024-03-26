@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.18.0.1" name="VRObjectSwitch" guid="3e92c875792ebf50b2d88a6f1d6d35026b4b7079" parent="07186cadf0de66280e5613672797f99a2ca3fc31" editable="0">
+	<parameter name="playPingPong" type="toggle" title="Play Ping-Pong Animation" group="VR Object Switch">0</parameter>
+	<parameter name="useQuaternions" type="toggle" title="Use Quaternions" group="VR Object Switch">0</parameter>
+	<parameter name="animationDuration" type="double" title="Animation Duration" group="VR Object Switch" min="0.1">0.5</parameter>
+	<parameter name="changePosition" type="toggle" title="Change Position" group="VR Object Switch">0</parameter>
+	<parameter name="disabledPosition" type="dvec3" title="Disabled Position" group="VR Object Switch" changePosition="1">0 0 0</parameter>
+	<parameter name="enabledPosition" type="dvec3" title="Enabled Position" group="VR Object Switch" changePosition="1">0 0 0</parameter>
+	<parameter name="changeRotaion" type="toggle" title="Change Rotation" group="VR Object Switch">0</parameter>
+	<parameter name="disabledRotationEuler" type="dvec3" title="Disabled Rotation" group="VR Object Switch" changeRotaion="1">0 0 0</parameter>
+	<parameter name="enabledRotationEuler" type="dvec3" title="Enabled Rotation" group="VR Object Switch" changeRotaion="1">0 0 0</parameter>
+</property>

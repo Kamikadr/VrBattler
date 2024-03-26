@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.18.0.1" name="TurnMovement" guid="aaeb341eb8128ce5bbe05900db49785f6666ea32" parent="8620ca97e590670a7dcc2ae128dbc6cc4ab953bb" editable="0">
+	<parameter name="turnStep" type="float" title="Turn Step" group="Turn" min="0" max="360">15</parameter>
+	<parameter name="turnMode" type="switch" title="Turn Mode" group="Turn" items="BUTTON_CLICK,BUTTON_PRESS">0</parameter>
+	<parameter name="turnDelay" type="float" title="Turn Delay" group="Turn" min="0" turnMode="1">0.25</parameter>
+</property>

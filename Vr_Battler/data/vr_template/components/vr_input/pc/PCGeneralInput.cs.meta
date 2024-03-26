@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>b165d7f0e9148a8fc9a5f6a2aff305998bf23224</guid>
+	<type>component</type>
+	<hash>d69e0e2f</hash>
+	<runtimes>
+		<runtime id="b165d7f0e9148a8fc9a5f6a2aff305998bf23224" name="PCGeneralInput.cs" link="0"/>
+		<runtime id="142610410330acaca780401b1a1ff6be64ec2f05" name="PCGeneralInput.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

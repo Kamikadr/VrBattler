@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>0f30e83b2c35405efbf6ac2520296f403e1d199f</guid>
+	<type>component</type>
+	<hash>12e3f9ec</hash>
+	<runtimes>
+		<runtime id="0f30e83b2c35405efbf6ac2520296f403e1d199f" name="VRNodeSwitchEnableByGrab.cs" link="0"/>
+		<runtime id="1f59f899f3fe89246f8442330f81a1f67d9230dd" name="VRNodeSwitchEnableByGrab.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

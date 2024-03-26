@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.18.0.1">
+	<node type="NodeDummy" id="1714194295" name="OculusTouchForQuestAndRiftS_Right">
+		<transform>1 1.7484555e-07 0 0.0 -1.7484555e-07 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1699364458" immovable="1" name="right_stick">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://7666afee57fcb6753663d5509b4ea86fe960bb02</mesh_name>
+			<surface name="oculus_quest" intersection="1" material="9174e59c9f16c44b8e1fcd2e294ab2b58c1b2490"/>
+			<transform>1 0 1.5285484e-14 0.0 0 1 1.7484555e-07 0.0 -1.5285484e-14 -1.7484555e-07 1 0.0 0.0050629647 0.010316786 0.003552604 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="241982145" immovable="1" name="button_y">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://e40d3e7931d055841ff9e31399740d569209e4bd</mesh_name>
+			<surface name="oculus_quest" intersection="1" material="9174e59c9f16c44b8e1fcd2e294ab2b58c1b2490"/>
+			<transform>1 1.7484555e-07 1.5285484e-14 0.0 -1.7484555e-07 1 1.7484555e-07 0.0 1.5285485e-14 -1.7484555e-07 1 0.0 -0.015388057 0.0096480381 -0.00044955435 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="15824172" immovable="1" name="button_x">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://ee87def8426415f7a1637aea124f6d417b5865ac</mesh_name>
+			<surface name="oculus_quest" intersection="1" material="9174e59c9f16c44b8e1fcd2e294ab2b58c1b2490"/>
+			<transform>1 0 1.5285484e-14 0.0 0 1 1.7484555e-07 0.0 -1.5285484e-14 -1.7484555e-07 1 0.0 -0.011353819 -0.0041965814 -0.0027798263 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1856859803" immovable="1" name="buttom_menu">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://a63aa51b2ad517bea244dc0566151da0b9ef347f</mesh_name>
+			<surface name="oculus_quest" intersection="1" material="9174e59c9f16c44b8e1fcd2e294ab2b58c1b2490"/>
+			<transform>1 0 1.5285484e-14 0.0 0 1 1.7484555e-07 0.0 -1.5285484e-14 -1.7484555e-07 1 0.0 -0.0033779982 -0.022750735 -0.0059811696 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1114788670" immovable="1" name="right_grip">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://1ce637d2e1df75092b4a7ad41adba82389ff6f26</mesh_name>
+			<surface name="oculus_quest" intersection="1" material="9174e59c9f16c44b8e1fcd2e294ab2b58c1b2490"/>
+			<transform>1 0 1.5285484e-14 0.0 0 1 1.7484555e-07 0.0 -1.5285484e-14 -1.7484555e-07 1 0.0 -0.01632107 -0.021983819 -0.029163249 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1249239429" immovable="1" name="right_trigger">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://df66bc4de7323148c9a6240730e891ba9d7875d1</mesh_name>
+			<surface name="oculus_quest" intersection="1" material="9174e59c9f16c44b8e1fcd2e294ab2b58c1b2490"/>
+			<transform>1 0 1.5285484e-14 0.0 0 1 1.7484555e-07 0.0 -1.5285484e-14 -1.7484555e-07 1 0.0 -0.0033780111 0.022008069 -0.020391693 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="37971232" immovable="1" name="right_controller_body">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://bbe734fc12e50c2ba51cb38e974ca595a0d9b9f0</mesh_name>
+			<surface name="oculus_quest" intersection="1" material="9174e59c9f16c44b8e1fcd2e294ab2b58c1b2490"/>
+			<transform>1 0 1.5285484e-14 0.0 0 1 1.7484555e-07 0.0 -1.5285484e-14 -1.7484555e-07 1 0.0 -0.0033780111 -0.016905669 -0.00017298013 1.0</transform>
+		</node>
+	</node>
+</nodes>

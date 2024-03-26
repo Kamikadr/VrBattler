@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>3e6d13f3d0a6c8b6e2a5a89d375c11586c9ce4d7</guid>
+	<type>component</type>
+	<hash>e10e1607</hash>
+	<runtimes>
+		<runtime id="3e6d13f3d0a6c8b6e2a5a89d375c11586c9ce4d7" name="BasestationController.cs" link="0"/>
+		<runtime id="99391be57ecf9c00a121df5fba6e253238bac2e9" name="BasestationController.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

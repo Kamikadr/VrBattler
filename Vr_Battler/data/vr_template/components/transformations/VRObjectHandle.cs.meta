@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>481639145341d16322df076697aaf78d3b84b388</guid>
+	<type>component</type>
+	<hash>efcb6e6f</hash>
+	<runtimes>
+		<runtime id="481639145341d16322df076697aaf78d3b84b388" name="VRObjectHandle.cs" link="0"/>
+		<runtime id="41be672a834eec8172455beca6a0a65bf3c2a7fe" name="VRObjectHandle.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

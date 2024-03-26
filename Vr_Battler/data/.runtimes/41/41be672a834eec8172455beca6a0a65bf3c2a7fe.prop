@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.18.0.1" name="VRObjectHandle" guid="41be672a834eec8172455beca6a0a65bf3c2a7fe" parent="07186cadf0de66280e5613672797f99a2ca3fc31" editable="0">
+	<parameter name="changePosition" type="toggle" title="Change Position" group="VR Object Handle">0</parameter>
+	<parameter name="handleMinPos" type="dvec3" title="Min Position" group="VR Object Handle" changePosition="1">0 0 0</parameter>
+	<parameter name="handleMaxPos" type="dvec3" title="Max Position" group="VR Object Handle" changePosition="1">0 0 0</parameter>
+	<parameter name="changeRotation" type="toggle" title="Change Rotation" group="VR Object Handle">0</parameter>
+	<parameter name="handleMinRot" type="dvec3" title="Min Rotation" group="VR Object Handle" changeRotation="1">0 0 0</parameter>
+	<parameter name="handleMaxRot" type="dvec3" title="Max Rotation" group="VR Object Handle" changeRotation="1">0 0 0</parameter>
+</property>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net6.0</TargetFramework>
+		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+		<GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+		<GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+		<GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+		<GenerateAssemblyFileVersionAttribute>false</GenerateAssemblyFileVersionAttribute>
+		<GenerateAssemblyTitleAttribute>false</GenerateAssemblyTitleAttribute>
+		<GenerateAssemblyVersionAttribute>false</GenerateAssemblyVersionAttribute>
+		<RootNamespace>UnigineApp</RootNamespace>
+		<StartupObject>UnigineApp.UnigineApp</StartupObject>
+		<WarningLevel>4</WarningLevel>
+		<OutputPath>bin</OutputPath>
+		<EnableDefaultItems>false</EnableDefaultItems>
+		<SkipPostBuild>false</SkipPostBuild>
+		<Platforms>x64</Platforms>
+		<PlatformTarget>x64</PlatformTarget>
+		<DebugType>portable</DebugType>
+		<DOTNET_HOST_PATH Condition="&apos;$(DOTNET_HOST_PATH)&apos; == &apos;&apos;">dotnet</DOTNET_HOST_PATH>
+	</PropertyGroup>
+	<PropertyGroup Condition="&apos;$(Configuration)&apos;==&apos;Debug&apos;">
+		<AssemblyName>Vr_Battler_x64d</AssemblyName>
+		<DebugSymbols>true</DebugSymbols>
+		<Optimize>false</Optimize>
+		<DefineConstants>TRACE;DEBUG;UNIGINE_DOUBLE;</DefineConstants>
+	</PropertyGroup>
+	<ItemGroup Condition="&apos;$(Configuration)&apos;==&apos;Debug&apos;">
+		<Reference Include="UnigineSharp_double_x64d">
+			<SpecificVersion>false</SpecificVersion>
+			<HintPath>bin\UnigineSharp_double_x64d.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+	<PropertyGroup Condition="&apos;$(Configuration)&apos;==&apos;Release&apos;">
+		<AssemblyName>Vr_Battler_x64</AssemblyName>
+		<Optimize>true</Optimize>
+		<DefineConstants>TRACE;NDEBUG;UNIGINE_DOUBLE;</DefineConstants>
+	</PropertyGroup>
+	<ItemGroup Condition="&apos;$(Configuration)&apos;==&apos;Release&apos;">
+		<Reference Include="UnigineSharp_double_x64">
+			<SpecificVersion>false</SpecificVersion>
+			<HintPath>bin\UnigineSharp_double_x64.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+	<ItemGroup>
+	</ItemGroup>
+  <ItemGroup>
+    <Compile Include="data\vr_template\components\base\VRBaseController.cs" />
+    <Compile Include="data\vr_template\components\base\VRBaseControllerInput.cs" />
+    <Compile Include="data\vr_template\components\base\VRBaseGeneralInput.cs" />
+    <Compile Include="data\vr_template\components\base\VRBaseInput.cs" />
+    <Compile Include="data\vr_template\components\base\VRBaseInteractable.cs" />
+    <Compile Include="data\vr_template\components\base\VRBaseInteraction.cs" />
+    <Compile Include="data\vr_template\components\base\VRBaseMovement.cs" />
+    <Compile Include="data\vr_template\components\base\VRBaseUI.cs" />
+    <Compile Include="data\vr_template\components\controllers\BasestationController.cs" />
+    <Compile Include="data\vr_template\components\controllers\HandController.cs" />
+    <Compile Include="data\vr_template\components\controllers\HeadController.cs" />
+    <Compile Include="data\vr_template\components\controllers\pc\PCHandController.cs" />
+    <Compile Include="data\vr_template\components\controllers\pc\PCHeadController.cs" />
+    <Compile Include="data\vr_template\components\controllers\vr\VRBasestationController.cs" />
+    <Compile Include="data\vr_template\components\controllers\vr\VRHandController.cs" />
+    <Compile Include="data\vr_template\components\controllers\vr\VRHeadController.cs" />
+    <Compile Include="data\vr_template\components\interactions\interactable\VRKinematicMovableObject.cs" />
+    <Compile Include="data\vr_template\components\interactions\interactable\VRLaserPointer.cs" />
+    <Compile Include="data\vr_template\components\interactions\interactable\VRNodeSwitchEnableByGrab.cs" />
+    <Compile Include="data\vr_template\components\interactions\interactable\VRNodeSwitchEnableByKey.cs" />
+    <Compile Include="data\vr_template\components\interactions\interactable\VRPhysicMovableObject.cs" />
+    <Compile Include="data\vr_template\components\interactions\interactable\VRSelectionTest.cs" />
+    <Compile Include="data\vr_template\components\interactions\interactable\VRTransformMovableObject.cs" />
+    <Compile Include="data\vr_template\components\interactions\interactions\VRHandMenuInteraction.cs" />
+    <Compile Include="data\vr_template\components\interactions\interactions\VRHandShapeInteraction.cs" />
+    <Compile Include="data\vr_template\components\interactions\interactions\VRPCHeadMenuInteraction.cs" />
+    <Compile Include="data\vr_template\components\interactions\VRInteractionManager.cs" />
+    <Compile Include="data\vr_template\components\movements\CrouchMovement.cs" />
+    <Compile Include="data\vr_template\components\movements\PCTurnMovement.cs" />
+    <Compile Include="data\vr_template\components\movements\PCWalkMovement.cs" />
+    <Compile Include="data\vr_template\components\movements\TeleportationMovement.cs" />
+    <Compile Include="data\vr_template\components\movements\TurnMovement.cs" />
+    <Compile Include="data\vr_template\components\movements\VRMovementManager.cs" />
+    <Compile Include="data\vr_template\components\movements\WalkMovement.cs" />
+    <Compile Include="data\vr_template\components\transformations\VRAttachToHand.cs" />
+    <Compile Include="data\vr_template\components\transformations\VRAttachToHead.cs" />
+    <Compile Include="data\vr_template\components\transformations\VRObjectHandle.cs" />
+    <Compile Include="data\vr_template\components\transformations\VRObjectSwitch.cs" />
+    <Compile Include="data\vr_template\components\ui\VRMenuSample.cs" />
+    <Compile Include="data\vr_template\components\VRPlayer.cs" />
+    <Compile Include="data\vr_template\components\vr_input\InputSystem.cs" />
+    <Compile Include="data\vr_template\components\vr_input\pc\PCGeneralInput.cs" />
+    <Compile Include="data\vr_template\components\vr_input\pc\PCInput.cs" />
+    <Compile Include="data\vr_template\components\vr_input\vr\VRControllerInput.cs" />
+    <Compile Include="data\vr_template\components\vr_input\vr\VRGeneralInput.cs" />
+    <Compile Include="data\vr_template\components\vr_input\vr\VRInput.cs" />
+    <Compile Include="data\vr_template\Utils.cs" />
+    <Compile Include="source\AppEditorLogic.cs" />
+    <Compile Include="source\AppSystemLogic.cs" />
+    <Compile Include="source\AppWorldLogic.cs" />
+    <Compile Include="source\main.cs" />
+  </ItemGroup>
+	<Target Name="PostBuild" AfterTargets="PostBuildEvent">
+		<Exec Command="&quot;$(DOTNET_HOST_PATH)&quot; &quot;$(OutputPath)cspropgen_double_x64d.dll&quot; -p &quot;$(OutputPath)$(AssemblyName).dll&quot; -data_path ../data/" Condition="&apos;$(Configuration)&apos;==&apos;Debug&apos; And $(SkipPostBuild)==&apos;false&apos;"/>
+		<Exec Command="&quot;$(DOTNET_HOST_PATH)&quot; &quot;$(OutputPath)cspropgen_double_x64.dll&quot; -p &quot;$(OutputPath)$(AssemblyName).dll&quot; -data_path ../data/" Condition="&apos;$(Configuration)&apos;==&apos;Release&apos; And $(SkipPostBuild)==&apos;false&apos;"/>
+	</Target>
+</Project>

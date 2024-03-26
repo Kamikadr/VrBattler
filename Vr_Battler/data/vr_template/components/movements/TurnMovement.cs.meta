@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>d660bee44fab7cf3cfa81db6aa94f99da1c92e58</guid>
+	<type>component</type>
+	<hash>4b06f355</hash>
+	<runtimes>
+		<runtime id="d660bee44fab7cf3cfa81db6aa94f99da1c92e58" name="TurnMovement.cs" link="0"/>
+		<runtime id="aaeb341eb8128ce5bbe05900db49785f6666ea32" name="TurnMovement.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

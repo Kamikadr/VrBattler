@@ -1,0 +1,5746 @@
+{
+    "edit_settings": {
+        "arguments": "",
+        "debug": false,
+        "microprofile_enabled": true
+    },
+    "project_settings": {
+        "addons": [
+        ],
+        "api": "csdnc",
+        "assets": [
+        ],
+        "build_tool": false,
+        "component_system": false,
+        "default_world": "Vr_Battler",
+        "demo": "",
+        "editor_plugin": false,
+        "engine_binaries": "development",
+        "files": [
+            {
+                "file": "data/vr_template/vr_sample/props/laser/textures/laser_pointer_e.jpg.meta",
+                "hash": "17114255114591247",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/material_ball/textures/material_ball_alb.png.meta",
+                "hash": "17114255114751271",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/vr_sample.world",
+                "hash": "1711425511235116666",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/17",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/cf/cf39008185205fec4357da5bfbc84bfe3fb00345.node",
+                "hash": "17114255111591176",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/fbxes/oculus_touch_right.fbx",
+                "hash": "1711425511347614816",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/shader_d3d11.cache",
+                "hash": "17114255109192014764",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/textures/oculus_touch_alb.png",
+                "hash": "171142551138727259",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/c4/c42575c19f19d42c5394419bf53d0a3e02ab2c85.prop",
+                "hash": "1711425511143872",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/f2",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/23/231c6bbedd5c20054f5b91a0f8bb187fce18cbd2.mesh.meta",
+                "hash": "1711425510975183",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/transformations/VRAttachToHand.cs.meta",
+                "hash": "1711425511283399",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/button/textures",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/e7/e7fd0aece7ae895bf4e92efe2bcd8a45dbb376e0.mesh.meta",
+                "hash": "1711425511200200",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/UnigineSharp_double_x64d.dll",
+                "hash": "17114254883265105408",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/vr_template/layers/vr_layer.node",
+                "hash": "171142551122721851",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions/interactable/VRSelectionTest.cs",
+                "hash": "17114255113232193",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/cspropgen_double_x64d.deps.json",
+                "hash": "1711425488348898",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/7c",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/69/69d5cafd9de010381cbe16379a4efe2a5dd09781.mesh.meta",
+                "hash": "1711425511055203",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/ab",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/f2/f225c61ccb2a78ee75153c32ff600758eeffa623.texture",
+                "hash": "1711425511211453915",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": ".vscode/settings.json",
+                "hash": "1711425511584480",
+                "tags": [
+                    "project_sources"
+                ]
+            },
+            {
+                "file": "data/.runtimes/2c/2ccc6e371864baba27a45acd8f5512e81a318290.mesh.meta",
+                "hash": "1711425510983181",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/99",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/b7/b72d1f9d899b1390853700f0dcefe4b5d7b47488.texture",
+                "hash": "1711425511127491",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/d3",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/textures/cylinder_n.png",
+                "hash": "171142551149179548",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/36/36e0f585a1ab6920022609ff7a400f5276cc6689.mesh.meta",
+                "hash": "1711425510999180",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/transformations/VRObjectSwitch.cs",
+                "hash": "17114255112834417",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/EditorCore_double_x64.dll",
+                "hash": "171142548792418396416",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/button/fbx/Materials/button_mat.mat",
+                "hash": "1711425511523259",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/fbxes/materials",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/d9/d95d757dfc32b8b84a93a4b7ef6e3aaa0b01aa01.prop.meta",
+                "hash": "1711425511175198",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/shaders/screen_space/vr_post_filter_selection.basemat",
+                "hash": "1711425511299242",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/fbxes/laser_ray.fbx",
+                "hash": "171142551144316496",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/eb/ebec5202624de979123b04841e1ec6135ec59456.prop.meta",
+                "hash": "1711425511205189",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions/interactable/VRNodeSwitchEnableByGrab.cs.meta",
+                "hash": "1711425511315419",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/bb/bb02aec7dea41d7acf6d0e91a4ef76bc9e42e2eb.prop",
+                "hash": "1711425511135301",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/81/81c93cbff0822312b9c5e7491bc3c814310c1463.mesh.meta",
+                "hash": "1711425511079197",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/textures",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/b9/b90bbe54e61115a3d6d6fea6ad0605cdfd11ecc8.mesh.meta",
+                "hash": "1711425511135181",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/base/VRBaseInput.cs",
+                "hash": "17114255112436208",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "source/AppSystemLogic.cs",
+                "hash": "1711425511566911",
+                "tags": [
+                    "project_sources"
+                ]
+            },
+            {
+                "file": "data/root_mount.umount",
+                "hash": "1711425510919102",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/15/15e6faa2a0f73b8483f60d03114d1e89390a684a.node",
+                "hash": "17114255109591165",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/material_ball/Materials",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/plugins/Unigine/GLTFImporter/UnigineGLTFImporter_plugin_double_x64.pdb",
+                "hash": "1711425488428815104",
+                "tags": [
+                    "plugins"
+                ]
+            },
+            {
+                "file": "data/.runtimes/f7",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/Materials/laser_hit_red_mat.mat.meta",
+                "hash": "1711425511451303",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": ".vscode/tasks.json",
+                "hash": "17114255116271235",
+                "tags": [
+                    "project_sources"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/fbx/small/cube_mesh.fbx.meta",
+                "hash": "17114255115314007",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/c6",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/86",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/08/08cf3ea15fa2478cbcda5d7bf5c7b49eecf81365.mesh",
+                "hash": "17114255109512899",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/vr_input/InputSystem.cs",
+                "hash": "17114255112919491",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/7e",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/5d/5de23d3ed7b926263e0b69ebf917ca467a409400.texture.meta",
+                "hash": "1711425511039186",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/movements/PCTurnMovement.cs",
+                "hash": "17114255112671470",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/59",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/common/Materials/menu_ray.mat",
+                "hash": "1711425511347485",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/d2",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/76/7666afee57fcb6753663d5509b4ea86fe960bb02.mesh",
+                "hash": "17114255110635989",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/material_ball/textures/material_ball_alb.png",
+                "hash": "17114255114751855393",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/material_ball/textures/material_ball_n.png",
+                "hash": "1711425511475548280",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/vive/textures/vive_pad_alb.jpg",
+                "hash": "1711425511411134658",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/ba",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/23/23292d44d93357d34ca37b1648ecf77d864852b8.mesh",
+                "hash": "171142551097517700",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/80/804a381ccd4af4cb6e9943ae872cb735cee05f10.prop",
+                "hash": "1711425511079204",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/vive/vive_pad_mat.mat",
+                "hash": "1711425511299806",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/vive/fbxes/vive_pad.fbx.meta",
+                "hash": "17114255113954442",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/UnigineSharp_double_x64d.xml",
+                "hash": "17114255115765940369",
+                "tags": [
+                    "unigine_utils"
+                ]
+            },
+            {
+                "file": "data/.runtimes/96",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/f8",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/base/VRBaseInteraction.cs",
+                "hash": "1711425511251763",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/31/31ab77a3c2b9f8a68128b7cdf7c0f6c8cd172b87.prop.meta",
+                "hash": "1711425510991197",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/table/textures/table_alb.png",
+                "hash": "17114255115074510099",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/fbxes/materials/oculus_touch_mat1.mat.meta",
+                "hash": "1711425511427303",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/81",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/22/2285bca2b2341399f2d3e824ab341533c08158f6.mesh",
+                "hash": "17114255109679709",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/fbx/small/sphere_mesh.fbx",
+                "hash": "171142551153154128",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/UnigineWrapper_double_x64.dll",
+                "hash": "17114254882513770624",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/99/99fe91cbb9463cae8e2b5c35bc8cc010a5ab142f.prop",
+                "hash": "1711425511103684",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/5a/5a15dc4c08bd6b3b9f89e75ee0cd2725370fae40.prop",
+                "hash": "1711425511023637",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions/VRInteractionManager.cs.meta",
+                "hash": "1711425511259411",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/7b/7bb0bf379cf7932a38be2881d6d367ec869f425b.prop",
+                "hash": "1711425511071610",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/button/fbx/Materials",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/plugins/Unigine/FbxImporter/UnigineFbxImporter_plugin_double_x64d.pdb",
+                "hash": "171142548842114659584",
+                "tags": [
+                    "plugins"
+                ]
+            },
+            {
+                "file": "data/.runtimes/a9/a9431c9977021ee09e7e73d45c571446d48e5b39.texture",
+                "hash": "171142551111961460",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/movements/PCTurnMovement.cs.meta",
+                "hash": "1711425511267398",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/laser_hit.node",
+                "hash": "17114255114199650",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/c2",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/12/1290903edd4cfa859c25aa20c94156fffc50f852.mesh.meta",
+                "hash": "1711425510951186",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/vr_input/InputSystem.cs.meta",
+                "hash": "1711425511291393",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/vr_input",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/teleport/fbxes/Materials/vive_teleport_white_mat.mat.meta",
+                "hash": "1711425511427309",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/button/fbx/Materials/button_mat.mat.meta",
+                "hash": "1711425511523296",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/controllers/vr/VRHeadController.cs.meta",
+                "hash": "1711425511315403",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/89/89e24d06ed3340ad04b32a28fa3c0767957d5d9a.mesh",
+                "hash": "17114255110872567",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/eb/eb699be07dc71dbfdd0c9012893b7049da51bd14.mesh",
+                "hash": "1711425511202476963",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/5d",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/c9/c9afda98e44d9d171836178a510921613fab4b4c.prop",
+                "hash": "1711425511151203",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/df/df66bc4de7323148c9a6240730e891ba9d7875d1.mesh.meta",
+                "hash": "1711425511183188",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/shaders",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "launch_release.bat",
+                "hash": "1711425511650470",
+                "tags": [
+                    "launcher_console"
+                ]
+            },
+            {
+                "file": "data/.runtimes/03/034e06e12a1bf2cc38838fbb8fa4c1de1bb93fa5.mesh.meta",
+                "hash": "1711425510943198",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/vr_input/pc/PCInput.cs",
+                "hash": "171142551133911518",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/44",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/da",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/de",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/a7/a7e0d620c739a28d2f157735298e4243d90caf67.basemat",
+                "hash": "171142551111910700",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/OpenVR_Launcher.launch",
+                "hash": "1711425510935289",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/cd/cda15a38c70ad837c780d82ad034a981583df4ec.mesh",
+                "hash": "1711425511159671",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/material_ball/Materials/material_ball_0.mat",
+                "hash": "1711425511467739",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/fbxes/laser_ray.fbx.meta",
+                "hash": "17114255114434014",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/65/65813e29f4c4717403f0ee43b324bec69aa5876d.mesh.meta",
+                "hash": "1711425511047197",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/Vr_Battler.world.meta",
+                "hash": "1711425511559603",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/a2",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/3e/3e92c875792ebf50b2d88a6f1d6d35026b4b7079.prop.meta",
+                "hash": "1711425510999189",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/aa/aaeb341eb8128ce5bbe05900db49785f6666ea32.prop.meta",
+                "hash": "1711425511119187",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/fbxes/oculus_touch_left.fbx",
+                "hash": "1711425511347610832",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/textures/oculus_touch_a.png",
+                "hash": "1711425511379285191",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/4e/4e91baa083d12d7fb795dcd2d588d609808a67d4.prop",
+                "hash": "1711425511015530",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/5a/5a2844138174fa56dd83edbd445053f8e93006f7.node.meta",
+                "hash": "1711425511023189",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/materials/sphere_mat.mat",
+                "hash": "1711425511483345",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/41",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/vive/textures/vive_pad_a.jpg",
+                "hash": "1711425511411235213",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions/interactable/VRKinematicMovableObject.cs.meta",
+                "hash": "1711425511315419",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/5c/5c51b7d16f3b8efc94099e2b08241d8eece90795.node",
+                "hash": "1711425511031703",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/c6/c614fa7687ffc8d450bb7e459b6d77d6883f0c9d.texture",
+                "hash": "171142551115110621",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/17/17424e27092551cb5719e7b340cc7082bb7f9b12.texture.meta",
+                "hash": "1711425510959194",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/plugins/Unigine/FbxExporter/UnigineFbxExporter_plugin_double_x64d.dll",
+                "hash": "17114254884619938688",
+                "tags": [
+                    "plugins"
+                ]
+            },
+            {
+                "file": "bin/Unigine_double_x64d.dll",
+                "hash": "171142548722590321664",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/d2/d2c7bb1fd61f559a3e6dcd64908394553b7e7e29.texture.meta",
+                "hash": "1711425511175185",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/53/53961ef6516a89dd485b019853889817c136d68a.prop",
+                "hash": "1711425511015371",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/e4/e40d3e7931d055841ff9e31399740d569209e4bd.mesh.meta",
+                "hash": "1711425511191183",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/msvcp140.dll",
+                "hash": "1711425488356633152",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/table/textures/table_sh.png",
+                "hash": "17114255115157334161",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/24",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/controllers/pc",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/84/841c0b473848cffa6a691f118ecf4d3ca097c76b.prop",
+                "hash": "1711425511079206",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/shaders/screen_space",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/9d",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/teleport/fbxes/Materials",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/a2/a21ef35e9126c3251bc49a400b20489fc188fd72.node.meta",
+                "hash": "1711425511103192",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/30/309383db2f98ca05447c71947db4fafdbfb5eb3d.texture.meta",
+                "hash": "1711425510991188",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/button/fbx/button.fbx",
+                "hash": "171142551142740688",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/movements/VRMovementManager.cs",
+                "hash": "1711425511275569",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/64/642d6e612308cddad0bd0cd3c770cf01fe3ad7aa.node",
+                "hash": "17114255110471202",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/33",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/vive/textures/vive_basestation_e.jpg.meta",
+                "hash": "17114255114031253",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/b9",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/cspropgen_double_x64.dll",
+                "hash": "1711425488342431872",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/07",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/ui",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/84",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/Materials/laser_hit_white_mat.mat.meta",
+                "hash": "1711425511451305",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/button/button.node",
+                "hash": "17114255114113084",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/2f/2fe33f7b69472e9e7f0d4565c09eb7802d1b44df.prop.meta",
+                "hash": "1711425510983193",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/button/textures/button_n.png",
+                "hash": "1711425511435114798",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/csharp_components.prop.meta",
+                "hash": "1711425510911299",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/67/67c5faf1decde974ae60a9a5e9675c3002cd6303.node.meta",
+                "hash": "1711425511055184",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/a3/a397d28eec7c67dadac4ac124a655a4d86f64c1c.texture",
+                "hash": "1711425511111209857",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/material_ball/Fbx/material_ball_rotatable.fbx.meta",
+                "hash": "17114255114674049",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/ce",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/2c/2cc6f3768e10545d31f54a18bdc14697c61eb30a.node",
+                "hash": "17114255109753672",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/fbxes/OculusTouchForQuestAndRiftS_Right.fbx",
+                "hash": "1711425511355228592",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions/interactions/VRHandMenuInteraction.cs",
+                "hash": "17114255113314241",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/67",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/Materials/oculus_quest.mat.meta",
+                "hash": "1711425511355298",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/base/VRBaseMovement.cs.meta",
+                "hash": "1711425511251399",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/vr_input/pc/PCGeneralInput.cs.meta",
+                "hash": "1711425511339399",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/23",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/5f",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/4b/4b656d682954f1a7c756c2daf4c3b471434d231c.prop",
+                "hash": "1711425511007201",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/bb/bbe734fc12e50c2ba51cb38e974ca595a0d9b9f0.mesh",
+                "hash": "1711425511143110461",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/transformations/VRObjectSwitch.cs.meta",
+                "hash": "1711425511283399",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/74/74554c989c2067172466598a9bc87b61133edd4c.node.meta",
+                "hash": "1711425511055191",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/a6",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/08",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/teleport/fbxes/Materials/vive_teleport_black_mat.mat.meta",
+                "hash": "1711425511427308",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/ab/ab4fecc0e692791f222873f2695142a9789fabf4.mesh",
+                "hash": "171142551111917928",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/df/df66bc4de7323148c9a6240730e891ba9d7875d1.mesh",
+                "hash": "17114255111839709",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/teleport/fbxes/teleport_point.fbx",
+                "hash": "171142551138725824",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/Unigine_double_x64d.pdb",
+                "hash": "1711425487753421621760",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/41/41be672a834eec8172455beca6a0a65bf3c2a7fe.prop.meta",
+                "hash": "1711425511007189",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/22/2285bca2b2341399f2d3e824ab341533c08158f6.mesh.meta",
+                "hash": "1711425510975187",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/textures/cube_n.png.meta",
+                "hash": "17114255114911244",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/materials/cylinder_mat.mat.meta",
+                "hash": "1711425511483298",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/8e/8efc0b790a9ebe84a14b3813df735e56c34701bd.texture",
+                "hash": "171142551108756173",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/64/642d6e612308cddad0bd0cd3c770cf01fe3ad7aa.node.meta",
+                "hash": "1711425511047188",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/ae",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/36/36e0f585a1ab6920022609ff7a400f5276cc6689.mesh",
+                "hash": "171142551099953693",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/teleport",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/plugins/Unigine/FbxExporter/UnigineFbxExporter_plugin_double_x64.dll",
+                "hash": "17114254884427408896",
+                "tags": [
+                    "plugins"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/base/VRBaseInteractable.cs.meta",
+                "hash": "1711425511251407",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/fbxes/oculus_touch_left.fbx.meta",
+                "hash": "17114255113476755",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/b7/b7b50bc8d9da3c8729d0d03ae4aaa251afae777c.prop",
+                "hash": "1711425511135829",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/vive/textures/vive_basestation_e.jpg",
+                "hash": "171142551140316209",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/table/fbx/Materials/table_mat.mat.meta",
+                "hash": "1711425511539295",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/movements/WalkMovement.cs.meta",
+                "hash": "1711425511275395",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "utils/natvis",
+                "hash": "",
+                "tags": [
+                    "unigine_utils"
+                ]
+            },
+            {
+                "file": "data/.runtimes/f0/f03be87701b82b6af16f63c19eaeea2cdaea5f9b.node.meta",
+                "hash": "1711425511211186",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/base/VRBaseController.cs.meta",
+                "hash": "1711425511243403",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/vr_input/vr/VRGeneralInput.cs.meta",
+                "hash": "1711425511339399",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/teleport/fbxes/Materials/vive_teleport_red_mat.mat.meta",
+                "hash": "1711425511427307",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/fbxes/Materials/laser_ray_mat.mat",
+                "hash": "1711425511523296",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/controllers/pc/PCHeadController.cs",
+                "hash": "1711425511307391",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/96/966f78f019b7b78faadd3fa247d7ba990fad6324.prop",
+                "hash": "17114255110952545",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/98",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/vr_input/vr",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/21/21eef5e42ece47f3d44e6cb6e180fc9dbff75558.prop.meta",
+                "hash": "1711425510967181",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/textures/laser_pointer_met.jpg.meta",
+                "hash": "17114255114591257",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/21/21c2a983e57578bdff08f06b0f6ccaa2210890c6.texture.meta",
+                "hash": "1711425510967193",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/textures/laser_pointer_alb.jpg.meta",
+                "hash": "17114255114591263",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/controllers/vr/VRBasestationController.cs",
+                "hash": "17114255113075357",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/fbx/small/cylinder_mesh.fbx",
+                "hash": "171142551153119920",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/controllers/vr/VRBasestationController.cs.meta",
+                "hash": "1711425511307417",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/Editor_double_x64.exe",
+                "hash": "17114254878284102400",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/material_ball/material_ball_rotatable.node",
+                "hash": "17114255114199614",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/vr_input/vr/VRControllerInput.cs.meta",
+                "hash": "1711425511339405",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/d9",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/textures/oculus_quest_sh.tga.meta",
+                "hash": "17114255113791252",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/material_ball/textures/material_ball_sh.png.meta",
+                "hash": "17114255114831254",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/EditorCore_double_x64.pdb",
+                "hash": "171142548794823187456",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/7d/7d978265b6f1d0803c4989df0fe0cdb2b3305169.prop",
+                "hash": "17114255110711213",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/cf/cf39008185205fec4357da5bfbc84bfe3fb00345.node.meta",
+                "hash": "1711425511159182",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/43/4303c1ea12bd08414fab44ac3a49f81be5ae4ebe.texture.meta",
+                "hash": "1711425511007194",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/EditorCore_double_x64d.dll",
+                "hash": "171142548798636265728",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/15/15e6faa2a0f73b8483f60d03114d1e89390a684a.node.meta",
+                "hash": "1711425510959181",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/e4/e4c4b7ea318d86414075aaac0f35261be7f3a4be.mesh",
+                "hash": "171142551119115963",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/4e",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/7c/7c68f909b2de2ed46b13cc237f314326e166804d.mesh.meta",
+                "hash": "1711425511071186",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/1c/1ce637d2e1df75092b4a7ad41adba82389ff6f26.mesh",
+                "hash": "17114255109597367",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/aa",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/material_ball/textures/material_ball_a.png.meta",
+                "hash": "17114255114671256",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/render_settings/template_virtual_reality.render.meta",
+                "hash": "1711425511235315",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/76",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/cspropgen_double_x64d.pdb",
+                "hash": "171142548834811408",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/button/textures/button_alb.png",
+                "hash": "1711425511435862387",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/61",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/75/750dc458d6f4fbd75b36674aa193ae214988f10c.prop",
+                "hash": "17114255110551541",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/65/65813e29f4c4717403f0ee43b324bec69aa5876d.mesh",
+                "hash": "1711425511047278021",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/79/796d86f1384bd39c78d4da4b7f8aeb2e07af38b5.mesh.meta",
+                "hash": "1711425511063198",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/07/07083332dc2178e98f0fed3402d4b70301727086.texture",
+                "hash": "17114255109431344524",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/2f/2fecb15d4c34031821a6ab971c02d40a7e09b3e1.prop",
+                "hash": "1711425510983536",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/vive/fbxes",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/a7/a72a20f4ba87d7c3e7579a46f42faced84e62968.prop",
+                "hash": "1711425511111320",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "utils/natvis/install.txt",
+                "hash": "1711425487764214",
+                "tags": [
+                    "unigine_utils"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/fbx/small/cylinder_mesh.fbx.meta",
+                "hash": "17114255115314019",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/3b/3b473469bc2f72b4e61f7e83d33b9206f539c1ad.prop",
+                "hash": "1711425510999197",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/material_ball/Materials/material_ball_0.mat.meta",
+                "hash": "1711425511467301",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/styles",
+                "hash": "",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/material_ball",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/d9/d95d757dfc32b8b84a93a4b7ef6e3aaa0b01aa01.prop",
+                "hash": "1711425511175212",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "Properties",
+                "hash": "",
+                "tags": [
+                    "project_sources"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/ui/VRMenuSample.cs",
+                "hash": "17114255112831572",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/14/142610410330acaca780401b1a1ff6be64ec2f05.prop.meta",
+                "hash": "1711425510959189",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/movements",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/cspropgen_double_x64d.runtimeconfig.json",
+                "hash": "1711425488348253",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/80",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/f3",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/31/31ab77a3c2b9f8a68128b7cdf7c0f6c8cd172b87.prop",
+                "hash": "1711425510991353",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/table/textures/table_a.png",
+                "hash": "17114255114991332180",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/61/610a6b56cc20aabd4a93ecf81a94cbf7ca60b8ea.prop.meta",
+                "hash": "1711425511039199",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/ui/VRMenuSample.cs.meta",
+                "hash": "1711425511291395",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/Materials/laser_pointer_mat.mat",
+                "hash": "1711425511451795",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/74/74554c989c2067172466598a9bc87b61133edd4c.node",
+                "hash": "1711425511055729",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/80/808b3c7a9eaf511c019ca8d0a878ba8f1e9bebb0.mesh.meta",
+                "hash": "1711425511079195",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/table/textures/table_a.png.meta",
+                "hash": "17114255114991240",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/ee/ee87def8426415f7a1637aea124f6d417b5865ac.mesh",
+                "hash": "17114255112082567",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/96/966f78f019b7b78faadd3fa247d7ba990fad6324.prop.meta",
+                "hash": "1711425511095192",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/textures",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/fc",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/75/750dc458d6f4fbd75b36674aa193ae214988f10c.prop.meta",
+                "hash": "1711425511055199",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/ab/ab4fecc0e692791f222873f2695142a9789fabf4.mesh.meta",
+                "hash": "1711425511119198",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/cd/cda15a38c70ad837c780d82ad034a981583df4ec.mesh.meta",
+                "hash": "1711425511159184",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/fbxes",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/Materials/laser_pointer_mat.mat.meta",
+                "hash": "1711425511451303",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/VRPlayer.cs.meta",
+                "hash": "1711425511227387",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/Materials/oculus_touch_mat.mat.meta",
+                "hash": "1711425511363302",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/materials/sphere_mat.mat.meta",
+                "hash": "1711425511491295",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/textures/cone_n.png.meta",
+                "hash": "17114255114911244",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/52",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/c5",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/14",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/textures/oculus_touch_alb.png.meta",
+                "hash": "17114255113871253",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/transformations/VRObjectHandle.cs",
+                "hash": "17114255112835124",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/Materials",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/teleport/fbxes/Materials/vive_teleport_red_mat.mat",
+                "hash": "1711425511427264",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/laser_pointer.node.meta",
+                "hash": "1711425511419300",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/8e",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "Vr_Battler.csproj",
+                "hash": "17114255116067173",
+                "tags": [
+                    "project_sources"
+                ]
+            },
+            {
+                "file": "data/.runtimes/b6/b6674b045b8932059769ee326a8eb293037aeb19.texture.meta",
+                "hash": "1711425511127184",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "utils",
+                "hash": "",
+                "tags": [
+                    "unigine_utils"
+                ]
+            },
+            {
+                "file": "data/.runtimes/8e/8efc0b790a9ebe84a14b3813df735e56c34701bd.texture.meta",
+                "hash": "1711425511087193",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/7d",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": ".vscode/launch.json",
+                "hash": "17114255116131479",
+                "tags": [
+                    "project_sources"
+                ]
+            },
+            {
+                "file": "bin/Unigine_double_x64.dll",
+                "hash": "171142548676467693824",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/VRPlayer.cs",
+                "hash": "17114255112275691",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/UnigineWrapper_double_x64d.dll",
+                "hash": "17114254882757062272",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/csharp_components.prop",
+                "hash": "1711425510911126",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/plugins/Unigine/GLTFImporter/UnigineGLTFImporter_plugin_double_x64d.pdb",
+                "hash": "17114254884366737920",
+                "tags": [
+                    "plugins"
+                ]
+            },
+            {
+                "file": "bin/plugins/Unigine/FbxImporter/UnigineFbxImporter_plugin_double_x64.pdb",
+                "hash": "17114254884076041600",
+                "tags": [
+                    "plugins"
+                ]
+            },
+            {
+                "file": "data/.runtimes/ee/ee87def8426415f7a1637aea124f6d417b5865ac.mesh.meta",
+                "hash": "1711425511209183",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/teleport/Materials",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions/interactable/VRPhysicMovableObject.cs",
+                "hash": "17114255113236564",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/plugins/Unigine/FbxImporter/UnigineFbxImporter_plugin_double_x64.dll",
+                "hash": "17114254883997807232",
+                "tags": [
+                    "plugins"
+                ]
+            },
+            {
+                "file": "data/.runtimes/52/52e482dbb18725b3c32111c0c2d47ed667b03f6e.texture.meta",
+                "hash": "1711425511015196",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/5a/5a2844138174fa56dd83edbd445053f8e93006f7.node",
+                "hash": "1711425511023875",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/98/984d86d771d5ff9ccdcf4bea24d801b94649e7a1.texture",
+                "hash": "1711425511095289",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/teleport/fbxes",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/c5/c5e1e6c3d3e45d46180793edebe6e4688451fca7.mesh",
+                "hash": "171142551114314112",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/vive/vive_basestation_mat.mat.meta",
+                "hash": "1711425511291306",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/EditorCore_double_x64d.pdb",
+                "hash": "1711425488242309686272",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/2f/2fecb15d4c34031821a6ab971c02d40a7e09b3e1.prop.meta",
+                "hash": "1711425510983183",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/df/df38783bcff7905e88b4bc2590303f40f555a99f.mesh",
+                "hash": "171142551118380659",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/c4",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/5d/5d462bdf374107b2b42f4369ccf235b464b56583.mesh.meta",
+                "hash": "1711425511031195",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/controllers/HeadController.cs.meta",
+                "hash": "1711425511259399",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/80/804a381ccd4af4cb6e9943ae872cb735cee05f10.prop.meta",
+                "hash": "1711425511079190",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/textures/cube_n.png",
+                "hash": "171142551149134094",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions/interactable/VRNodeSwitchEnableByKey.cs.meta",
+                "hash": "1711425511323417",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/controllers/vr/VRHeadController.cs",
+                "hash": "1711425511307392",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "launch_editor.bat",
+                "hash": "1711425511664512",
+                "tags": [
+                    "launcher_console"
+                ]
+            },
+            {
+                "file": "data/core.ung",
+                "hash": "171142550550568532569",
+                "tags": [
+                    "unigine_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/1c/1ce637d2e1df75092b4a7ad41adba82389ff6f26.mesh.meta",
+                "hash": "1711425510959185",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/controllers/pc/PCHeadController.cs.meta",
+                "hash": "1711425511307403",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/UnigineSharp_double_x64d.pdb",
+                "hash": "17114254883341947928",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/textures/laser_pointer_alb.jpg",
+                "hash": "171142551145155890",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/eb/ebec5202624de979123b04841e1ec6135ec59456.prop",
+                "hash": "17114255112043972",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/8f/8fd3aead8985f8f2e5029d1dc2c36c07cb115b5c.texture.meta",
+                "hash": "1711425511095186",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/teleport/fbxes/teleport_point.fbx.meta",
+                "hash": "17114255113874288",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/base/VRBaseInput.cs.meta",
+                "hash": "1711425511243393",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/44/4431a30d66306908f88578c7d4c45f7a9b5c6891.prop",
+                "hash": "1711425511007501",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/41/41be672a834eec8172455beca6a0a65bf3c2a7fe.prop",
+                "hash": "1711425522191948",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/teleport/ray_alb.jpg.meta",
+                "hash": "17114255112911234",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/e3/e3483b9f616254729b34a9299e82e07459d69143.prop.meta",
+                "hash": "1711425511191189",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/button/textures/button_alb.png.meta",
+                "hash": "17114255114351249",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/vive/textures/vive_basestation_sh.jpg.meta",
+                "hash": "17114255114031260",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/movements/TeleportationMovement.cs.meta",
+                "hash": "1711425511275413",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/f1/f1dbf2b9db60fcc4b435e153dc0d76965b03bcfd.node.meta",
+                "hash": "1711425511211184",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/88/88a871355844d1108dc9f12f735fecc26f954539.mesh.meta",
+                "hash": "1711425511087202",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/5c/5c4cccedf7d047b63b9f6ff8e17f4d46bc703f86.texture.meta",
+                "hash": "1711425511031188",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/d3/d3a0626a7f242ec1acbf392cc838629b7fb8b73e.node.meta",
+                "hash": "1711425511175180",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/transformations",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/66/66e64cc27e35dd56fe75bfb9f98840e60c099ef6.prop",
+                "hash": "1711425522188686",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/7a/7a92b22a4ef8bb81a95edeec681e4d5b26ae22fe.prop",
+                "hash": "1711425511063210",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/libeay32.dll",
+                "hash": "17114254878182101248",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/b7/b7b50bc8d9da3c8729d0d03ae4aaa251afae777c.prop.meta",
+                "hash": "1711425511135192",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/59/5918d5e98bada634bf8d1c03ec0d9186d730bb2d.prop",
+                "hash": "1711425511023203",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/1c",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/base/VRBaseInteractable.cs",
+                "hash": "17114255112511035",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/a6/a63aa51b2ad517bea244dc0566151da0b9ef347f.mesh.meta",
+                "hash": "1711425511111186",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "utils/natvis/unigine_stl.natvis",
+                "hash": "171142548776410715",
+                "tags": [
+                    "unigine_utils"
+                ]
+            },
+            {
+                "file": "data/.runtimes/1f",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/bb/bb02aec7dea41d7acf6d0e91a4ef76bc9e42e2eb.prop.meta",
+                "hash": "1711425511143182",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/b5",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/9d/9de1ce4f5ed0e762e1cdbf595dd020e4235f76f3.prop.meta",
+                "hash": "1711425511103191",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/base",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/a6/a63aa51b2ad517bea244dc0566151da0b9ef347f.mesh",
+                "hash": "17114255111111764",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/UnigineSharp_double_x64.xml",
+                "hash": "17114255115765940369",
+                "tags": [
+                    "unigine_utils"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/controllers/pc/PCHandController.cs.meta",
+                "hash": "1711425511299403",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/fbxes/oculus_touch_right.fbx.meta",
+                "hash": "17114255113556773",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/UnigineSharp_double_x64.dll",
+                "hash": "17114254883134818688",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/66/66e64cc27e35dd56fe75bfb9f98840e60c099ef6.prop.meta",
+                "hash": "1711425511047189",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "Properties/launchSettings.json",
+                "hash": "1711425511642199",
+                "tags": [
+                    "project_sources"
+                ]
+            },
+            {
+                "file": "data/.runtimes/3e/3e92c875792ebf50b2d88a6f1d6d35026b4b7079.prop",
+                "hash": "17114255221931345",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/7e/7ee5c14618f1a7ed2fc1e8689e0930a7ac97f5da.texture.meta",
+                "hash": "1711425511071193",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/Utils.cs",
+                "hash": "17114255109435582",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/teleport/ray_alb.jpg",
+                "hash": "17114255112917939",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions/interactions/VRHandShapeInteraction.cs",
+                "hash": "17114255113318300",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/c4/c42575c19f19d42c5394419bf53d0a3e02ab2c85.prop.meta",
+                "hash": "1711425511143186",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/cc/cc0788aaf1dea001d896796c0c0025db99e9217e.texture",
+                "hash": "17114255111591196057",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions/interactable/VRTransformMovableObject.cs.meta",
+                "hash": "1711425511323419",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/plugins/Unigine/GLTFImporter/UnigineGLTFImporter_plugin_double_x64.dll",
+                "hash": "1711425488428539904",
+                "tags": [
+                    "plugins"
+                ]
+            },
+            {
+                "file": "data/.runtimes/aa/aaeb341eb8128ce5bbe05900db49785f6666ea32.prop",
+                "hash": "1711425511119550",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/f9",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/1f/1f59f899f3fe89246f8442330f81a1f67d9230dd.prop",
+                "hash": "1711425510959504",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/base/VRBaseGeneralInput.cs",
+                "hash": "1711425511243698",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/controllers",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/plugins/Unigine/FbxExporter/UnigineFbxExporter_plugin_double_x64d.pdb",
+                "hash": "171142548846310285056",
+                "tags": [
+                    "plugins"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/material_ball/textures",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/fbxes/OculusTouchForQuestAndRiftS_Right.fbx.meta",
+                "hash": "17114255113556657",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/movements/VRMovementManager.cs.meta",
+                "hash": "1711425511275405",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/e5/e5c3164bcf8bf72eae84d4b5cb9ade900409a0af.mesh.meta",
+                "hash": "1711425511191201",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/69/69d5cafd9de010381cbe16379a4efe2a5dd09781.mesh",
+                "hash": "171142551105548603",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/c8/c8055e32bb1ea7e959a550347cdcbe0315a4cb86.prop",
+                "hash": "1711425511151205",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/f1/f1dbf2b9db60fcc4b435e153dc0d76965b03bcfd.node",
+                "hash": "1711425511211704",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/Utils.cs.meta",
+                "hash": "1711425510943286",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/f2/f225c61ccb2a78ee75153c32ff600758eeffa623.texture.meta",
+                "hash": "1711425511211184",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/UnigineWrapper_double_x64.pdb",
+                "hash": "17114254882597606272",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/e4/e4c4b7ea318d86414075aaac0f35261be7f3a4be.mesh.meta",
+                "hash": "1711425511191187",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/fc/fce5684baaf6212e39a4f6b5fbc89890d87812af.node.meta",
+                "hash": "1711425511227207",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/base/VRBaseInteraction.cs.meta",
+                "hash": "1711425511251405",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/99/99fe91cbb9463cae8e2b5c35bc8cc010a5ab142f.prop.meta",
+                "hash": "1711425511103195",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/vive",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/7e/7ee5c14618f1a7ed2fc1e8689e0930a7ac97f5da.texture",
+                "hash": "171142551107172200",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/Materials",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions/interactions/VRHandShapeInteraction.cs.meta",
+                "hash": "1711425511331415",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/88",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/e3",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/8f",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/5a",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/07/07186cadf0de66280e5613672797f99a2ca3fc31.prop",
+                "hash": "1711425510951207",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/12",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/fbxes/laser_pointer.fbx.meta",
+                "hash": "17114255114434480",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/53",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/vr_input/vr/VRInput.cs.meta",
+                "hash": "1711425511347384",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/materials/cube_mat.mat.meta",
+                "hash": "1711425511483294",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/vive/textures/vive_basestation_alb.jpg.meta",
+                "hash": "17114255114031261",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/80/808b3c7a9eaf511c019ca8d0a878ba8f1e9bebb0.mesh",
+                "hash": "17114255110794000",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/7b",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/17/17424e27092551cb5719e7b340cc7082bb7f9b12.texture",
+                "hash": "171142551095916664",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/materials/cube_mat.mat",
+                "hash": "1711425511483456",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/transformations/VRAttachToHand.cs",
+                "hash": "17114255112752049",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/f0",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/39/3930d561089ee7d29b1c4399ae28679b15b8511a.mesh.meta",
+                "hash": "1711425510999184",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/textures/oculus_quest_alb.tga.meta",
+                "hash": "17114255113711247",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/plugins/Unigine/GLTFImporter",
+                "hash": "",
+                "tags": [
+                    "plugins"
+                ]
+            },
+            {
+                "file": "data/.runtimes/07/07083332dc2178e98f0fed3402d4b70301727086.texture.meta",
+                "hash": "1711425510951194",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/88/88a871355844d1108dc9f12f735fecc26f954539.mesh",
+                "hash": "171142551108711200",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/ApplicationLauncher_x64.exe",
+                "hash": "17114254877701122816",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/34/34424bcd6b503a29ee45abd00895ceae5f6e2797.texture",
+                "hash": "1711425510991368796",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/base/VRBaseGeneralInput.cs.meta",
+                "hash": "1711425511243407",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/cspropgen_double_x64.runtimeconfig.json",
+                "hash": "1711425488347253",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/2f/2fe33f7b69472e9e7f0d4565c09eb7802d1b44df.prop",
+                "hash": "1711425510983207",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/textures/oculus_touch_a.png.meta",
+                "hash": "17114255113791243",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": ".vscode",
+                "hash": "",
+                "tags": [
+                    "project_sources"
+                ]
+            },
+            {
+                "file": "Vr_Battler.sln",
+                "hash": "17114255116351047",
+                "tags": [
+                    "project_sources"
+                ]
+            },
+            {
+                "file": "data/.runtimes",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/74",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/material_ball/textures/material_ball_n.png.meta",
+                "hash": "17114255114751254",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/44/447141e84619bc276c840b5a777362f1f03fff9c.mesh.meta",
+                "hash": "1711425511007204",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/c9/c9afda98e44d9d171836178a510921613fab4b4c.prop.meta",
+                "hash": "1711425511151189",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/ssleay32.dll",
+                "hash": "1711425487810353792",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/vr_template/layers",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/33/338f711aa68f61b950073d2c7f2b8d2110d57b00.texture",
+                "hash": "1711425510991167537",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/button/textures/button_sh.png.meta",
+                "hash": "17114255114431240",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/button/button.node.meta",
+                "hash": "1711425511411293",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/23/23292d44d93357d34ca37b1648ecf77d864852b8.mesh.meta",
+                "hash": "1711425510975201",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/Editor_double_x64d.pdb",
+                "hash": "171142548790261755392",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/22",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/da/dad6b3f07777b68fd43732a2f33b1199d762ce24.mesh.meta",
+                "hash": "1711425511183184",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/eb/eb699be07dc71dbfdd0c9012893b7049da51bd14.mesh.meta",
+                "hash": "1711425511203182",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/shaders/vr_controller.mgraph",
+                "hash": "171142551123510464",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/5a/5adf8563ef992b66ab76cb8d275677885bbb3547.mesh",
+                "hash": "171142551102331243",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/34",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/12/1290903edd4cfa859c25aa20c94156fffc50f852.mesh",
+                "hash": "171142551095130388",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/shader_d3d12_dxc.cache",
+                "hash": "17114255109274944516",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin",
+                "hash": "",
+                "tags": [
+                    "unigine",
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/button/materials",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions/interactions",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/2c",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/33/338f711aa68f61b950073d2c7f2b8d2110d57b00.texture.meta",
+                "hash": "1711425510991190",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/69",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/03/034e06e12a1bf2cc38838fbb8fa4c1de1bb93fa5.mesh",
+                "hash": "1711425510943277638",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions/interactable/VRNodeSwitchEnableByKey.cs",
+                "hash": "17114255113151694",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/controllers/HandController.cs",
+                "hash": "17114255112593083",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/textures/cylinder_n.png.meta",
+                "hash": "17114255114911252",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/c6/c614fa7687ffc8d450bb7e459b6d77d6883f0c9d.texture.meta",
+                "hash": "1711425511151193",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/54/54368e362323b01d703f72d86e81d857b5b899ca.node",
+                "hash": "1711425511015711",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/button/fbx",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/79",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions/VRInteractionManager.cs",
+                "hash": "17114255112598179",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/render_settings",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/vive/fbxes/vive_basestation.fbx.meta",
+                "hash": "17114255113954050",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/b9/b90bbe54e61115a3d6d6fea6ad0605cdfd11ecc8.mesh",
+                "hash": "171142551113523825",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/ec/ecebe2be654f2b05201520a078215b7f8ffc32d2.prop.meta",
+                "hash": "1711425511207195",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/materials/cone_mat.mat",
+                "hash": "1711425511483427",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/scripts.ung",
+                "hash": "171142550560411780",
+                "tags": [
+                    "unigine_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/99/994919219642f5265465eb780a7ed09f2896b23c.texture.meta",
+                "hash": "1711425511103188",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "source/main.cs",
+                "hash": "1711425511570470",
+                "tags": [
+                    "project_sources"
+                ]
+            },
+            {
+                "file": "data/.runtimes/21",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/c5/c5e1e6c3d3e45d46180793edebe6e4688451fca7.mesh.meta",
+                "hash": "1711425511151205",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/e3/e3483b9f616254729b34a9299e82e07459d69143.prop",
+                "hash": "1711425522190785",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/button/textures/button_n.png.meta",
+                "hash": "17114255114431248",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/fc/fce5684baaf6212e39a4f6b5fbc89890d87812af.node",
+                "hash": "17114255112273522",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/b5/b5c55422688a1e8698f4a6eb113fc82e21531841.mesh",
+                "hash": "171142551112730664",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/table/fbx/Materials",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/f1",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/base/VRBaseController.cs",
+                "hash": "17114255112432950",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/platforms",
+                "hash": "",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/vr_input/vr/VRInput.cs",
+                "hash": "171142551133926320",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/shaders/screen_space/filter_selection.frag.meta",
+                "hash": "1711425511299294",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/30/309383db2f98ca05447c71947db4fafdbfb5eb3d.texture",
+                "hash": "1711425510983622592",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/a2/a21ef35e9126c3251bc49a400b20489fc188fd72.node",
+                "hash": "17114255111033661",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/base/VRBaseMovement.cs",
+                "hash": "1711425511251264",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/d1/d1fc9b4bb675b82e6449a1b57547479094a0f5af.texture.meta",
+                "hash": "1711425511167193",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/e7/e7fd0aece7ae895bf4e92efe2bcd8a45dbb376e0.mesh",
+                "hash": "171142551119917699",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/fbx/small/cone_mesh.fbx",
+                "hash": "171142551152322592",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/textures/oculus_touch_sh.png.meta",
+                "hash": "17114255113871252",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/7a",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/30",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/2c/2ccc6e371864baba27a45acd8f5512e81a318290.mesh",
+                "hash": "171142551098314745",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/02/028848a0c1ea637f30619ad2b3957c090752d5d4.prop.meta",
+                "hash": "1711425510943198",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/vive/textures/vive_basestation_alb.jpg",
+                "hash": "171142551140376835",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/e4/e40d3e7931d055841ff9e31399740d569209e4bd.mesh",
+                "hash": "17114255111912567",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/3e",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/styles/qwindowsvistastyle.dll",
+                "hash": "1711425487776136192",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/e4",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/fbxes/materials/oculus_touch_mat1.mat",
+                "hash": "1711425511427175",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/d1",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/21/21c2a983e57578bdff08f06b0f6ccaa2210890c6.texture",
+                "hash": "171142551096786511",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/teleport/fbxes/Materials/vive_teleport_white_mat.mat",
+                "hash": "1711425511427175",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/3b/3b473469bc2f72b4e61f7e83d33b9206f539c1ad.prop.meta",
+                "hash": "1711425510999183",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/54",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/99/99391be57ecf9c00a121df5fba6e253238bac2e9.prop",
+                "hash": "1711425511095210",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/44/447141e84619bc276c840b5a777362f1f03fff9c.mesh",
+                "hash": "171142551100714111",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/75/75350f762ade2aabfd454ca852a021f48e149f10.mesh.meta",
+                "hash": "1711425511063186",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/f3/f30876b78b08e4aa2b984c018d8c356c8162b1db.mesh",
+                "hash": "171142551121948604",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/materials",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/bb/bbe734fc12e50c2ba51cb38e974ca595a0d9b9f0.mesh.meta",
+                "hash": "1711425511143196",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/textures/laser_ray.tga",
+                "hash": "17114255114591068",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/table/textures/table_n.png",
+                "hash": "17114255115159461792",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/laser_pointer.node",
+                "hash": "17114255114194316",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/textures/laser_pointer_e.jpg",
+                "hash": "171142551145989953",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/8f/8fd3aead8985f8f2e5029d1dc2c36c07cb115b5c.texture",
+                "hash": "1711425511095165648",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/movements/PCWalkMovement.cs.meta",
+                "hash": "1711425511267399",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/36",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/table/fbx/Materials/table_mat.mat",
+                "hash": "1711425511531678",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/5d/5de23d3ed7b926263e0b69ebf917ca467a409400.texture",
+                "hash": "17114255110395894210",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions/interactable",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/a7/a7e0d620c739a28d2f157735298e4243d90caf67.basemat.meta",
+                "hash": "1711425511119191",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/materials/cylinder_mat.mat",
+                "hash": "1711425511483456",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/e7",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/dxcompiler.dll",
+                "hash": "171142548838517367600",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "bin/UnigineSharp_double_x64d.deps.json",
+                "hash": "1711425488334464",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/31",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/Materials/laser_ray_mat_9.mat.meta",
+                "hash": "1711425511451301",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/openal32.dll",
+                "hash": "1711425488361962560",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/7a/7a92b22a4ef8bb81a95edeec681e4d5b26ae22fe.prop.meta",
+                "hash": "1711425511063196",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/Vr_Battler.world",
+                "hash": "171142551155973265",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/button/materials/button_mat.mat",
+                "hash": "1711425511435581",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/21/214379f7b8938eea5bb87141714599acb9fe491b.mesh.meta",
+                "hash": "1711425510967185",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/b7",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/fbxes/OculusTouchForQuestAndRiftS_Left.fbx",
+                "hash": "1711425511355227888",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/Qt5Concurrent.dll",
+                "hash": "171142548781028672",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/fbxes/laser_pointer.fbx",
+                "hash": "171142551144345616",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/textures/cone_n.png",
+                "hash": "1711425511491214066",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/99/994919219642f5265465eb780a7ed09f2896b23c.texture",
+                "hash": "1711425511103333139",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/vive/textures/vive_basestation_sh.jpg",
+                "hash": "171142551140361035",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/4b/4b9251da5dc3f7713e028a1ce2531ecbdabf65ae.mesh",
+                "hash": "171142551101511200",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/2f",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/a6/a601f44b4d313d2ebfcd62b572de14908ff75eaf.prop.meta",
+                "hash": "1711425511111188",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/vive/textures/vive_pad_e.jpg.meta",
+                "hash": "17114255114111237",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/textures/oculus_quest_sh.tga",
+                "hash": "171142551137912582956",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/f8/f808d64246b220b9fe9552c4be223f53b8823c96.mesh.meta",
+                "hash": "1711425511219201",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/vr_input/pc/PCGeneralInput.cs",
+                "hash": "17114255113316397",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/plugins/Unigine/FbxImporter/UnigineFbxImporter_plugin_double_x64d.dll",
+                "hash": "171142548841310896640",
+                "tags": [
+                    "plugins"
+                ]
+            },
+            {
+                "file": "data/shader_vk.cache",
+                "hash": "17114255109274984202",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/imageformats",
+                "hash": "",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/teleport/Materials/teleport_forbidden_ray.mat",
+                "hash": "1711425511395579",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/table/textures/table_sh.png.meta",
+                "hash": "17114255115231238",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/5d/5d462bdf374107b2b42f4369ccf235b464b56583.mesh",
+                "hash": "1711425511031110861",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/vr_input/pc",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/movements/TurnMovement.cs.meta",
+                "hash": "1711425511275395",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/e5",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "utils/natvis/image.natvis",
+                "hash": "17114254877631891",
+                "tags": [
+                    "unigine_utils"
+                ]
+            },
+            {
+                "file": "bin/plugins/Unigine/CadImporter",
+                "hash": "",
+                "tags": [
+                    "plugins"
+                ]
+            },
+            {
+                "file": "data/.runtimes/ec/ecebe2be654f2b05201520a078215b7f8ffc32d2.prop",
+                "hash": "1711425511206551",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/fbx",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/a7/a72a20f4ba87d7c3e7579a46f42faced84e62968.prop.meta",
+                "hash": "1711425511111191",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/textures/laser_pointer_met.jpg",
+                "hash": "171142551145931945",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/material_ball/textures/material_ball_sh.png",
+                "hash": "17114255114751772981",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/VarjoLib.dll",
+                "hash": "1711425488393231424",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/59/5918d5e98bada634bf8d1c03ec0d9186d730bb2d.prop.meta",
+                "hash": "1711425511023189",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/cc/cc0788aaf1dea001d896796c0c0025db99e9217e.texture.meta",
+                "hash": "1711425511159195",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/ec",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/plugins/Unigine/FbxImporter",
+                "hash": "",
+                "tags": [
+                    "plugins"
+                ]
+            },
+            {
+                "file": "bin/cspropgen_double_x64d.dll",
+                "hash": "1711425488348431872",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "source",
+                "hash": "",
+                "tags": [
+                    "unigine"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions/interactions/VRHandMenuInteraction.cs.meta",
+                "hash": "1711425511331412",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/shaders/screen_space/vr_post_filter_selection.basemat.meta",
+                "hash": "1711425511299310",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/platforms/qwindows.dll",
+                "hash": "17114254877811446400",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "bin/Qt5Widgets.dll",
+                "hash": "17114254878035530624",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/07/07186cadf0de66280e5613672797f99a2ca3fc31.prop.meta",
+                "hash": "1711425510951193",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/9d/9de1ce4f5ed0e762e1cdbf595dd020e4235f76f3.prop",
+                "hash": "1711425511103205",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/cspropgen_double_x64.pdb",
+                "hash": "171142548834411076",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/79/796d86f1384bd39c78d4da4b7f8aeb2e07af38b5.mesh",
+                "hash": "1711425511063592523",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/ce/ce41cfa5359f3cc05679891f714443f2d29ad2a9.prop.meta",
+                "hash": "1711425511159189",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "utils/natvis/qt5_2.natvis",
+                "hash": "171142548776433547",
+                "tags": [
+                    "unigine_utils"
+                ]
+            },
+            {
+                "file": "data/.runtimes/a6/a601f44b4d313d2ebfcd62b572de14908ff75eaf.prop",
+                "hash": "1711425511111323",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/material_ball/material_ball_rotatable.node.meta",
+                "hash": "1711425511419310",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/24/249fc9ca77acaea12b80f78c01494d7b1309e49e.node",
+                "hash": "17114255109753870",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/Materials/oculus_quest.mat",
+                "hash": "1711425511355351",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/81/81c93cbff0822312b9c5e7491bc3c814310c1463.mesh",
+                "hash": "171142551107917927",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/movements/WalkMovement.cs",
+                "hash": "17114255112752465",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/vive/textures/vive_pad_alb.jpg.meta",
+                "hash": "17114255114111245",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/44/4431a30d66306908f88578c7d4c45f7a9b5c6891.prop.meta",
+                "hash": "1711425511007198",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/vr_sample.world.meta",
+                "hash": "1711425511235650",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/plugins/Unigine/FbxExporter/UnigineFbxExporter_plugin_double_x64.pdb",
+                "hash": "17114254884505779456",
+                "tags": [
+                    "plugins"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions/interactions/VRPCHeadMenuInteraction.cs.meta",
+                "hash": "1711425511331417",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/vr_input/vr/VRControllerInput.cs",
+                "hash": "17114255113394762",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/fbx/small/cone_mesh.fbx.meta",
+                "hash": "17114255115234007",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/textures/oculus_quest_alb.tga",
+                "hash": "171142551137112582956",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/d2/d2c7bb1fd61f559a3e6dcd64908394553b7e7e29.texture",
+                "hash": "171142551117515323775",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/cf",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/de/de10178f3657b3e25a5e7cb59200642cd1f56cbc.texture",
+                "hash": "171142551118321374",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/material_ball/Fbx/material_ball_rotatable.fbx",
+                "hash": "17114255114671087408",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/material_ball/textures/material_ball_a.png",
+                "hash": "171142551146750869",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/ba/baa9168a4de1219f88a79a01756e216a4b950c98.texture.meta",
+                "hash": "1711425511135187",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/fbx/small",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/24/249fc9ca77acaea12b80f78c01494d7b1309e49e.node.meta",
+                "hash": "1711425510975208",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/vr_input/pc/PCInput.cs.meta",
+                "hash": "1711425511339385",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/button/fbx/button.fbx.meta",
+                "hash": "17114255114354430",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/default.bitmasks",
+                "hash": "1711425510911493",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/52/52e482dbb18725b3c32111c0c2d47ed667b03f6e.texture",
+                "hash": "17114255110151185",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/table/textures",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/table/fbx/table.fbx",
+                "hash": "171142551149987648",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/30/30a2e1dc1a1fb812ee6c832b65dae33a3d65f254.texture",
+                "hash": "171142551099148279",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/controllers/BasestationController.cs.meta",
+                "hash": "1711425511259413",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/transformations/VRAttachToHead.cs.meta",
+                "hash": "1711425511283399",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/vive/textures/vive_pad_a.jpg.meta",
+                "hash": "17114255114111235",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/vive/fbxes/vive_pad.fbx",
+                "hash": "1711425511395773152",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/fbxes/OculusTouchForQuestAndRiftS_Left.fbx.meta",
+                "hash": "17114255113556653",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/21/21eef5e42ece47f3d44e6cb6e180fc9dbff75558.prop",
+                "hash": "17114255109671331",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/ce/ce41cfa5359f3cc05679891f714443f2d29ad2a9.prop",
+                "hash": "1711425511159303",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/vive/vive_pad_mat.mat.meta",
+                "hash": "1711425511299297",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/02",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/plugins/Unigine/GLTFImporter/UnigineGLTFImporter_plugin_double_x64d.dll",
+                "hash": "17114254884281195264",
+                "tags": [
+                    "plugins"
+                ]
+            },
+            {
+                "file": "source/AppWorldLogic.cs",
+                "hash": "17114255115682099",
+                "tags": [
+                    "project_sources"
+                ]
+            },
+            {
+                "file": "data/vr_template/layers/vr_layer.node.meta",
+                "hash": "1711425511235295",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/11/111532c602136b6d11ddd5e86b9540276e61bf5a.node.meta",
+                "hash": "1711425510951198",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/54/54368e362323b01d703f72d86e81d857b5b899ca.node.meta",
+                "hash": "1711425511023188",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/table/textures/table_n.png.meta",
+                "hash": "17114255115151246",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/4b/4b9251da5dc3f7713e028a1ce2531ecbdabf65ae.mesh.meta",
+                "hash": "1711425511015202",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/table/textures/table_alb.png.meta",
+                "hash": "17114255115071247",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/teleport/fbxes/Materials/vive_teleport_black_mat.mat",
+                "hash": "1711425511427253",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/ba/baa9168a4de1219f88a79a01756e216a4b950c98.texture",
+                "hash": "17114255111352774906",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions/interactable/VRLaserPointer.cs.meta",
+                "hash": "1711425511315399",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/ae/ae21b02bb489078ebd44e9951d8d2df07957e88f.mesh.meta",
+                "hash": "1711425511127184",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions/interactable/VRTransformMovableObject.cs",
+                "hash": "17114255113236300",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/textures/laser_ray.tga.meta",
+                "hash": "17114255114591233",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/shaders/vr_controller.mgraph.meta",
+                "hash": "1711425511235401",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/7c/7c68f909b2de2ed46b13cc237f314326e166804d.mesh",
+                "hash": "17114255110711764",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/controllers/BasestationController.cs",
+                "hash": "17114255112591036",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/eb",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/11",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/4b/4b656d682954f1a7c756c2daf4c3b471434d231c.prop.meta",
+                "hash": "1711425511007187",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/teleport/Materials/teleport_allowed_ray.mat.meta",
+                "hash": "1711425511395306",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/vr_input/vr/VRGeneralInput.cs",
+                "hash": "17114255113397920",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/da/dad6b3f07777b68fd43732a2f33b1199d762ce24.mesh",
+                "hash": "17114255111833444",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/21/214379f7b8938eea5bb87141714599acb9fe491b.mesh",
+                "hash": "17114255109675989",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/table",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/table/fbx",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/ee",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/textures/oculus_touch_sh.png",
+                "hash": "1711425511387135002",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/98/984d86d771d5ff9ccdcf4bea24d801b94649e7a1.texture.meta",
+                "hash": "1711425511095187",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/14/142610410330acaca780401b1a1ff6be64ec2f05.prop",
+                "hash": "17114255109593295",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "launch_debug.bat",
+                "hash": "1711425511662471",
+                "tags": [
+                    "launcher_console"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/transformations/VRAttachToHead.cs",
+                "hash": "17114255112832396",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/base/VRBaseControllerInput.cs",
+                "hash": "1711425511243564",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/f9/f92ac497aa47a4c2b1e930993a2ef84eabe8311d.texture",
+                "hash": "171142551122749156",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/b7/b72d1f9d899b1390853700f0dcefe4b5d7b47488.texture.meta",
+                "hash": "1711425511127184",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/f3/f30876b78b08e4aa2b984c018d8c356c8162b1db.mesh.meta",
+                "hash": "1711425511219204",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/UnigineSharp_double_x64.deps.json",
+                "hash": "1711425488324461",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/a3",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/7d/7d978265b6f1d0803c4989df0fe0cdb2b3305169.prop.meta",
+                "hash": "1711425511071196",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/render_settings/template_virtual_reality.render",
+                "hash": "171142551123550932",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/f9/f92ac497aa47a4c2b1e930993a2ef84eabe8311d.texture.meta",
+                "hash": "1711425511227187",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/f8/f808d64246b220b9fe9552c4be223f53b8823c96.mesh",
+                "hash": "171142551121911199",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/f2/f2e5e336966d2649dfe98661117426f8c3b0543b.texture.meta",
+                "hash": "1711425511211188",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/common/Materials/menu_ray.mat.meta",
+                "hash": "1711425511347294",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/oculus/Materials/oculus_touch_mat.mat",
+                "hash": "1711425511363788",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/base/VRBaseUI.cs",
+                "hash": "1711425511251800",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/Editor_double_x64d.exe",
+                "hash": "17114254878467032064",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/fbx/small/cube_mesh.fbx",
+                "hash": "171142551153118528",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions/interactable/VRLaserPointer.cs",
+                "hash": "17114255113153017",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/fbxes/Materials/laser_pointer_mat.mat",
+                "hash": "1711425511523259",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/vive/vive_basestation_mat.mat",
+                "hash": "1711425511291641",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/vive/fbxes/vive_basestation.fbx",
+                "hash": "1711425511395101456",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/89",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/1f/1f59f899f3fe89246f8442330f81a1f67d9230dd.prop.meta",
+                "hash": "1711425510967199",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/movements/CrouchMovement.cs",
+                "hash": "17114255112671069",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions/interactable/VRPhysicMovableObject.cs.meta",
+                "hash": "1711425511323413",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/Oculus_Launcher.launch",
+                "hash": "1711425510935289",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/5f/5f66e994e52dc7e3a2918be62506b20d2bfc2c08.prop.meta",
+                "hash": "1711425511039190",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/fbxes/Materials/laser_pointer_mat.mat.meta",
+                "hash": "1711425511523303",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/textures",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/76/7666afee57fcb6753663d5509b4ea86fe960bb02.mesh.meta",
+                "hash": "1711425511063186",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/43",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/15",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/75/75350f762ade2aabfd454ca852a021f48e149f10.mesh",
+                "hash": "171142551105513081",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/fbxes/Materials",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/3b",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/23/231c6bbedd5c20054f5b91a0f8bb187fce18cbd2.mesh",
+                "hash": "17114255109752567",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/61/610a6b56cc20aabd4a93ecf81a94cbf7ca60b8ea.prop",
+                "hash": "17114255110391541",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/vive/textures",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/fbx/small/sphere_mesh.fbx.meta",
+                "hash": "17114255115314013",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/default.bitmasks.meta",
+                "hash": "1711425510919288",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/b5/b5c55422688a1e8698f4a6eb113fc82e21531841.mesh.meta",
+                "hash": "1711425511127188",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/e5/e5c3164bcf8bf72eae84d4b5cb9ade900409a0af.mesh",
+                "hash": "171142551119111199",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/d3dcompiler_47.dll",
+                "hash": "17114254883614524480",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/4e/4e91baa083d12d7fb795dcd2d588d609808a67d4.prop.meta",
+                "hash": "1711425511015187",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/5a/5a15dc4c08bd6b3b9f89e75ee0cd2725370fae40.prop.meta",
+                "hash": "1711425511023191",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/de/de10178f3657b3e25a5e7cb59200642cd1f56cbc.texture.meta",
+                "hash": "1711425511183197",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/movements/TeleportationMovement.cs",
+                "hash": "17114255112678049",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/Unigine_double_x64.pdb",
+                "hash": "1711425487134365490176",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/5a/5adf8563ef992b66ab76cb8d275677885bbb3547.mesh.meta",
+                "hash": "1711425511031186",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/43/4303c1ea12bd08414fab44ac3a49f81be5ae4ebe.texture",
+                "hash": "171142551100731046",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/Qt5Core.dll",
+                "hash": "17114254877896105088",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "bin/UnigineSharp_double_x64.pdb",
+                "hash": "17114254883191542204",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/cd",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/Materials/laser_ray_mat_9.mat",
+                "hash": "17114255114511259",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/editor2.ung",
+                "hash": "17114255106788038381",
+                "tags": [
+                    "unigine_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/08/08cf3ea15fa2478cbcda5d7bf5c7b49eecf81365.mesh.meta",
+                "hash": "1711425510951188",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/Editor_double_x64.pdb",
+                "hash": "17114254878324747264",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/a3/a397d28eec7c67dadac4ac124a655a4d86f64c1c.texture.meta",
+                "hash": "1711425511111195",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/cc",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/39",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/89/89e24d06ed3340ad04b32a28fa3c0767957d5d9a.mesh.meta",
+                "hash": "1711425511087183",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/df/df38783bcff7905e88b4bc2590303f40f555a99f.mesh.meta",
+                "hash": "1711425511183191",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/controllers/pc/PCHandController.cs",
+                "hash": "17114255112991756",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/material_ball/Fbx",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/controllers/vr",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/laser_hit.node.meta",
+                "hash": "1711425511419296",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/common",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/button",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/table/fbx/table.fbx.meta",
+                "hash": "17114255114994419",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/Qt5Gui.dll",
+                "hash": "17114254877956464000",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/controllers/HandController.cs.meta",
+                "hash": "1711425511259399",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/base/VRBaseUI.cs.meta",
+                "hash": "1711425511251387",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/plugins/Unigine/OpenFlight",
+                "hash": "",
+                "tags": [
+                    "plugins"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/controllers/vr/VRHandController.cs.meta",
+                "hash": "1711425511307402",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/fbxes/Materials/laser_ray_mat.mat.meta",
+                "hash": "1711425511523299",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/OpenVR_Launcher.launch.meta",
+                "hash": "1711425510943306",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/b6/b6674b045b8932059769ee326a8eb293037aeb19.texture",
+                "hash": "171142551112738229",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/Materials/laser_hit_red_mat.mat",
+                "hash": "1711425511443336",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/64",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/c8",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/Oculus_Launcher.launch.meta",
+                "hash": "1711425510935306",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/movements/PCWalkMovement.cs",
+                "hash": "17114255112671875",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/86/8620ca97e590670a7dcc2ae128dbc6cc4ab953bb.prop",
+                "hash": "1711425511087203",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/65",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/c2/c2b79fc0e328901f01f19ef220aa71a9e7e10ef4.prop",
+                "hash": "1711425511143568",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/d1/d1fc9b4bb675b82e6449a1b57547479094a0f5af.texture",
+                "hash": "1711425511167937998",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/d3/d3a0626a7f242ec1acbf392cc838629b7fb8b73e.node",
+                "hash": "17114255111751151",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/vive/textures/vive_pad_e.jpg",
+                "hash": "171142551141170108",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/86/8620ca97e590670a7dcc2ae128dbc6cc4ab953bb.prop.meta",
+                "hash": "1711425511087189",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/movements/TurnMovement.cs",
+                "hash": "17114255112751932",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/a9",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/dxil.dll",
+                "hash": "17114254883851421856",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "source/AppEditorLogic.cs",
+                "hash": "17114255115651412",
+                "tags": [
+                    "project_sources"
+                ]
+            },
+            {
+                "file": "data/.runtimes/5c/5c4cccedf7d047b63b9f6ff8e17f4d46bc703f86.texture",
+                "hash": "1711425511031128136",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/vcruntime140.dll",
+                "hash": "171142548835987888",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/99/99391be57ecf9c00a121df5fba6e253238bac2e9.prop.meta",
+                "hash": "1711425511095196",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/UnigineWrapper_double_x64d.pdb",
+                "hash": "171142548830736622336",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/b6",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions/interactable/VRSelectionTest.cs.meta",
+                "hash": "1711425511323401",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/a9/a9431c9977021ee09e7e73d45c571446d48e5b39.texture.meta",
+                "hash": "1711425511119198",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/teleport/Materials/teleport_forbidden_ray.mat.meta",
+                "hash": "1711425511395308",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/Materials/laser_hit_white_mat.mat",
+                "hash": "1711425511451175",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/common/Materials",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/2c/2cc6f3768e10545d31f54a18bdc14697c61eb30a.node.meta",
+                "hash": "1711425510975193",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/7b/7bb0bf379cf7932a38be2881d6d367ec869f425b.prop.meta",
+                "hash": "1711425511071189",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/primitives/materials/cone_mat.mat.meta",
+                "hash": "1711425511483294",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/53/53961ef6516a89dd485b019853889817c136d68a.prop.meta",
+                "hash": "1711425511015186",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/cspropgen_double_x64.deps.json",
+                "hash": "1711425488346891",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/c8/c8055e32bb1ea7e959a550347cdcbe0315a4cb86.prop.meta",
+                "hash": "1711425511151191",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/button/textures/button_sh.png",
+                "hash": "171142551144354411",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/84/841c0b473848cffa6a691f118ecf4d3ca097c76b.prop.meta",
+                "hash": "1711425511079192",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data",
+                "hash": "",
+                "tags": [
+                    "unigine",
+                    "unigine_data",
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/c9",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/button/materials/button_mat.mat.meta",
+                "hash": "1711425511435295",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions/interactions/VRPCHeadMenuInteraction.cs",
+                "hash": "17114255113313223",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/11/111532c602136b6d11ddd5e86b9540276e61bf5a.node",
+                "hash": "1711425510951732",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/controllers/HeadController.cs",
+                "hash": "17114255112591031",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/Qt5Network.dll",
+                "hash": "17114254878101301504",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/66/665a8387579e6b3a46dd8151b81dca7c3abba3ab.prop.meta",
+                "hash": "1711425511047196",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/66/665a8387579e6b3a46dd8151b81dca7c3abba3ab.prop",
+                "hash": "17114255110471520",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/plugins/Unigine/FbxExporter",
+                "hash": "",
+                "tags": [
+                    "plugins"
+                ]
+            },
+            {
+                "file": "data/.runtimes/30/30a2e1dc1a1fb812ee6c832b65dae33a3d65f254.texture.meta",
+                "hash": "1711425510991195",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/5f/5f66e994e52dc7e3a2918be62506b20d2bfc2c08.prop",
+                "hash": "1711425511039205",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/bb",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/4b",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/base/VRBaseControllerInput.cs.meta",
+                "hash": "1711425511243413",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/f7/f75631cb00795caeaa83fc351ccce01035acb42f.texture.meta",
+                "hash": "1711425511219185",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/transformations/VRObjectHandle.cs.meta",
+                "hash": "1711425511283399",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/movements/CrouchMovement.cs.meta",
+                "hash": "1711425511267399",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/75",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/02/028848a0c1ea637f30619ad2b3957c090752d5d4.prop",
+                "hash": "1711425510943695",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/5c",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/shaders/screen_space/filter_selection.frag",
+                "hash": "17114255112991216",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions/interactable/VRKinematicMovableObject.cs",
+                "hash": "17114255113156707",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/c2/c2b79fc0e328901f01f19ef220aa71a9e7e10ef4.prop.meta",
+                "hash": "1711425511143189",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/controllers/vr/VRHandController.cs",
+                "hash": "17114255113076128",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/f7/f75631cb00795caeaa83fc351ccce01035acb42f.texture",
+                "hash": "17114255112192654268",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "bin/imageformats/qgif.dll",
+                "hash": "171142548777032768",
+                "tags": [
+                    "binaries"
+                ]
+            },
+            {
+                "file": "data/.runtimes/39/3930d561089ee7d29b1c4399ae28679b15b8511a.mesh",
+                "hash": "1711425510999247",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/components/interactions/interactable/VRNodeSwitchEnableByGrab.cs",
+                "hash": "17114255113151022",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/props/teleport/Materials/teleport_allowed_ray.mat",
+                "hash": "1711425511387485",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/34/34424bcd6b503a29ee45abd00895ceae5f6e2797.texture.meta",
+                "hash": "1711425510991192",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/66",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/f0/f03be87701b82b6af16f63c19eaeea2cdaea5f9b.node",
+                "hash": "1711425511209708",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/5c/5c51b7d16f3b8efc94099e2b08241d8eece90795.node.meta",
+                "hash": "1711425511031184",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/03",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/df",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/f2/f2e5e336966d2649dfe98661117426f8c3b0543b.texture",
+                "hash": "171142551121113037",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/a7",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/vr_template/vr_sample/props/laser/fbxes",
+                "hash": "",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/67/67c5faf1decde974ae60a9a5e9675c3002cd6303.node",
+                "hash": "1711425511047707",
+                "tags": [
+                    "project_data"
+                ]
+            },
+            {
+                "file": "data/.runtimes/ae/ae21b02bb489078ebd44e9951d8d2df07957e88f.mesh",
+                "hash": "17114255111277367",
+                "tags": [
+                    "project_data"
+                ]
+            }
+        ],
+        "launcher_console": true,
+        "launcher_gui": false,
+        "name": "Vr_Battler",
+        "plugin_name": "",
+        "plugin_vendor": "Local",
+        "plugins": [
+            "UnigineOpenFlight",
+            "UnigineFbxImporter",
+            "UnigineCadImporter",
+            "UnigineGLTFImporter",
+            "UnigineFbxExporter"
+        ],
+        "precision": 1,
+        "project_template": [
+            "vr-dnc"
+        ],
+        "rt_generator": false,
+        "sw_distributed": false
+    },
+    "run_settings": {
+        "app_name": "",
+        "application": "default",
+        "arguments": "",
+        "debug": false,
+        "microprofile_enabled": true,
+        "rpath": [
+        ]
+    },
+    "sdk": {
+        "edition": "community",
+        "internal_version": 55,
+        "key": "tier0_bin_windows-2.18.0.1",
+        "name": "UNIGINE 2 Community",
+        "path": "C:/Users/atd6/AppData/Local/unigine/browser/sdks/community_windows_2.18.0.1_bin",
+        "type": "bin",
+        "version": "2.18.0.1"
+    },
+    "version": "2"
+}

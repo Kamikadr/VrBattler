@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>81e8e9678e89cdbef1dad1ebdcb239f3aa99c185</guid>
+	<type>node</type>
+	<hash>db672101</hash>
+	<runtimes>
+		<runtime id="81e8e9678e89cdbef1dad1ebdcb239f3aa99c185" name="laser_hit.node" link="0" type="3"/>
+	</runtimes>
+</asset>

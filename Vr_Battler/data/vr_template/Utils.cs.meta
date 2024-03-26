@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>64528e0e1897be1581ecf8708364310f9e886b22</guid>
+	<type>component</type>
+	<hash>1b04b81b</hash>
+	<runtimes>
+		<runtime id="64528e0e1897be1581ecf8708364310f9e886b22" name="Utils.cs" link="0"/>
+	</runtimes>
+</asset>

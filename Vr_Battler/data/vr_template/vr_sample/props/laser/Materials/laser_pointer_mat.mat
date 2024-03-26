@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.18.0.1" guid="b142fbefd2e1aca687f321f44c0181c8f0f6aa7e" base_material="4dfec30f491f753f6e89094db6d3d695e89f9d6f">
+	<state name="emission">1</state>
+	<texture name="albedo" wrap="clamp_y,clamp_z" anisotropy="0">guid://a397d28eec7c67dadac4ac124a655a4d86f64c1c</texture>
+	<texture name="shading" wrap="clamp_y,clamp_z" anisotropy="0">guid://30a2e1dc1a1fb812ee6c832b65dae33a3d65f254</texture>
+	<texture name="emission" wrap="clamp_y,clamp_z" anisotropy="0">guid://c614fa7687ffc8d450bb7e459b6d77d6883f0c9d</texture>
+	<parameter name="metalness" expression="0">1</parameter>
+	<parameter name="emission_color" expression="0">1 0.188235313 0.13333334 1</parameter>
+	<parameter name="emission_scale" expression="0">1000</parameter>
+</material>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>c8e73a7f47e285d235c36b0947e1f8d438c10e23</guid>
+	<type>component</type>
+	<hash>6a094d89</hash>
+	<runtimes>
+		<runtime id="c8e73a7f47e285d235c36b0947e1f8d438c10e23" name="CrouchMovement.cs" link="0"/>
+		<runtime id="c9afda98e44d9d171836178a510921613fab4b4c" name="CrouchMovement.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

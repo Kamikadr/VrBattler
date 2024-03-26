@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.18.0.1">
+	<node type="PlayerDummy" id="1963476919" name="vr_player">
+		<znear>0.00999999978</znear>
+		<oblique_frustum_plane>0 0 -1 0</oblique_frustum_plane>
+		<is_oblique_frustum>0</is_oblique_frustum>
+		<is_main>1</is_main>
+		<is_listener>1</is_listener>
+		<controlled>1</controlled>
+		<properties>
+			<property parent="2fecb15d4c34031821a6ab971c02d40a7e09b3e1" guid="89be2ab12b62a45ccae9f40b969fb9eeaede3875">
+				<parameter name="playerHeight">1.70000005</parameter>
+				<parameter name="postMaterial">08a76858c76409d4d980482cb0df78fc0acc827a</parameter>
+			</property>
+		</properties>
+		<transform>-0.99999917 -8.7424247e-08 -1.8199243e-06 0.0 -1.8199238e-06 8.9406859e-07 0.99999881 0.0 -8.7422528e-08 0.99999899 -9.5367335e-07 0.0 0 0 1.7 1.0</transform>
+		<node type="NodeDummy" id="1181001048" name="pc">
+			<transform>-1.000001 -1.8199282e-06 -8.7422798e-08 0.0 -8.7424439e-08 9.5367534e-07 1.0000011 0.0 -1.8199274e-06 1.0000012 -8.9407075e-07 0.0 0 0 0 1.0</transform>
+			<node type="NodeDummy" id="251947223" name="head">
+				<properties>
+					<property parent="9de1ce4f5ed0e762e1cdbf595dd020e4235f76f3" guid="69650d7c2b0c0aab42fea00eb880a81547fcda70">
+						<parameter name="device">12</parameter>
+					</property>
+					<property parent="028848a0c1ea637f30619ad2b3957c090752d5d4" guid="fe0d48b487a75c83d795d806fbb34fad3e2ded28">
+						<parameter name="sphereMaterial">bf7f143e9201ae855d0ace20653c2aff8c85bc52</parameter>
+						<parameter name="excludeNodes">
+							<value index="0">2121068618</value>
+						</parameter>
+					</property>
+				</properties>
+				<transform>1 0 3.0314049e-14 0.0 -7.1054274e-15 1 -2.153943e-28 0.0 -7.8161917e-14 0 1 0.0 0 0 0 1.0</transform>
+			</node>
+			<node type="ObjectDummy" id="2121068618" name="hand">
+				<body type="BodyDummy" id="1336928913" frozen="0">
+					<shape type="ShapeSphere" id="2003653330">
+						<radius>0.125</radius>
+						<collision_mask>0x7</collision_mask>
+					</shape>
+				</body>
+				<properties>
+					<property parent="a72a20f4ba87d7c3e7579a46f42faced84e62968" guid="c5b23dd454d28f236a932a2666693b4d27eca448">
+						<parameter name="device">13</parameter>
+						<parameter name="handPositionOffset">0 0 0</parameter>
+						<parameter name="handRotationOffset">0 0 0</parameter>
+					</property>
+					<property parent="31ab77a3c2b9f8a68128b7cdf7c0f6c8cd172b87" guid="7d25056ddf1ea7e82d8bea2729a4615a5a5bc0f1">
+						<parameter name="showInteractTrigger">0</parameter>
+					</property>
+					<property parent="4431a30d66306908f88578c7d4c45f7a9b5c6891" guid="9ea40b7dc68c56b8b414aab7495f88aa5f56a001">
+						<parameter name="nodesToSwitch">
+							<value index="0">610439020</value>
+						</parameter>
+					</property>
+				</properties>
+				<transform>1 0 3.0314042e-14 0.0 -7.1054265e-15 0.99999988 -2.1539427e-28 0.0 -7.816191e-14 0 0.99999988 0.0 0 0 0 1.0</transform>
+			</node>
+		</node>
+		<node type="NodeDummy" id="1861213443" name="vr">
+			<transform>0.99999988 0 0 0.0 0 1.0000001 0 0.0 0 0 1.0000002 0.0 0 0 0 1.0</transform>
+			<node type="NodeDummy" id="1063357440" name="hmd_controller">
+				<properties>
+					<property parent="c8055e32bb1ea7e959a550347cdcbe0315a4cb86" guid="955e7c3b997dc45e513d6025347893405279ed9f">
+						<parameter name="device">2</parameter>
+					</property>
+				</properties>
+				<transform>1.0000005 1.1368684e-13 7.1038011e-15 0.0 -1.1368684e-13 1 -5.6843419e-14 0.0 1.893017e-15 -1.1368684e-13 1.0000001 0.0 0 0 0 1.0</transform>
+			</node>
+			<node type="ObjectDummy" id="293686275" trigger_interaction_enabled="1" name="left_controller">
+				<body type="BodyDummy" id="234396295" frozen="0">
+					<shape type="ShapeSphere" id="234396295">
+						<radius>0.0700000003</radius>
+					</shape>
+				</body>
+				<properties>
+					<property parent="5f66e994e52dc7e3a2918be62506b20d2bfc2c08" guid="56b86d68e91260a4bc73c89d3ce763cc024d180f"/>
+					<property parent="31ab77a3c2b9f8a68128b7cdf7c0f6c8cd172b87" guid="e7a8a7e85e8d8e8441a15c979631f4626b662622"/>
+					<property parent="4431a30d66306908f88578c7d4c45f7a9b5c6891" guid="4596b8da331adc26f5611d17add302921d226f19">
+						<parameter name="nodesToSwitch">
+							<value index="0">1451798151</value>
+						</parameter>
+					</property>
+					<property parent="99fe91cbb9463cae8e2b5c35bc8cc010a5ab142f" guid="094b075a3ed88643477c2da1308d108b48e38da4">
+						<parameter name="rayMaterial">bf7f143e9201ae855d0ace20653c2aff8c85bc52</parameter>
+						<parameter name="excludeNodes">
+							<value index="0">1451798151</value>
+						</parameter>
+					</property>
+				</properties>
+				<transform>0.9999994 0 0 0.0 0 0.99999893 0 0.0 0 0 0.99999917 0.0 -0.19999997 -7.7883186e-08 0.29999956 1.0</transform>
+			</node>
+			<node type="ObjectDummy" id="278135174" name="right_controller">
+				<body type="BodyDummy" id="382703162" frozen="0">
+					<shape type="ShapeSphere" id="382703162">
+						<radius>0.0700000003</radius>
+					</shape>
+				</body>
+				<properties>
+					<property parent="5f66e994e52dc7e3a2918be62506b20d2bfc2c08" guid="7d936d9c4492ce70d19f7221ff23188f6f707cb3">
+						<parameter name="device">1</parameter>
+					</property>
+					<property parent="31ab77a3c2b9f8a68128b7cdf7c0f6c8cd172b87" guid="2341f01c9a900141497e31bb66bdc336e44f9a76"/>
+					<property parent="4431a30d66306908f88578c7d4c45f7a9b5c6891" guid="f3190c2e38635174f0689a3b65a40204a18acf5d">
+						<parameter name="nodesToSwitch">
+							<value index="0">610439020</value>
+						</parameter>
+					</property>
+					<property parent="99fe91cbb9463cae8e2b5c35bc8cc010a5ab142f" guid="66a4e2aefd279cabde9f7f65a7b21aceff2f8918">
+						<parameter name="rayMaterial">bf7f143e9201ae855d0ace20653c2aff8c85bc52</parameter>
+					</property>
+				</properties>
+				<transform>0.99999976 9.094947e-13 2.1312813e-14 0.0 1.0425254e-14 5.9604645e-08 -0.99999899 0.0 -7.9580786e-13 0.99999911 5.9604531e-08 0.0 0.2 1.7325033e-07 0.29999986 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="464162873" name="basestation_0">
+				<properties>
+					<property parent="d95d757dfc32b8b84a93a4b7ef6e3aaa0b01aa01" guid="84b63071eb21e88c1421598af9c6ddbc8c0e6426">
+						<parameter name="device">3</parameter>
+					</property>
+				</properties>
+				<transform>1.0000011 2.2737368e-13 7.1046684e-15 0.0 -3.7890698e-15 5.9604872e-08 -1.0000008 0.0 0 1.0000011 5.9604531e-08 0.0 -0.4000003 1.1126673e-08 0.39999998 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="790625348" name="basestation_1">
+				<properties>
+					<property parent="d95d757dfc32b8b84a93a4b7ef6e3aaa0b01aa01" guid="2201bc919e4b06ab6b3b142c727b9e51dcc72d4d">
+						<parameter name="device">4</parameter>
+					</property>
+				</properties>
+				<transform>1.0000011 5.6843419e-13 2.1315306e-14 0.0 3.3165744e-15 5.9604872e-08 -1.0000007 0.0 -3.4106051e-13 1.000001 5.9604247e-08 0.0 0.4000003 3.6557367e-08 0.40000015 1.0</transform>
+			</node>
+		</node>
+	</node>
+	<node type="NodeDummy" id="1136876398" name="vr_input">
+		<properties>
+			<property parent="53961ef6516a89dd485b019853889817c136d68a" guid="e54c38f1cf86dd9c26d05c4b3d1c852eb5700ab5">
+				<parameter name="inputs">
+					<value index="0">8116ecd30d900c167fb6547d9e900bb8d362dbb7</value>
+					<value index="1">0fd41570a2aeaa0fb2869022fe03d119136187a4</value>
+				</parameter>
+			</property>
+		</properties>
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="NodeDummy" id="684932278" name="pc_input">
+			<properties>
+				<property parent="bb02aec7dea41d7acf6d0e91a4ef76bc9e42e2eb" guid="8116ecd30d900c167fb6547d9e900bb8d362dbb7">
+					<parameter name="inputName">pc_input</parameter>
+					<parameter name="generalPresets">
+						<value index="0">5e696536e8629b1d791361d8a97efb57fb8560ca</value>
+					</parameter>
+				</property>
+			</properties>
+			<transform>1.0000001 0 0 0.0 0 1.0000001 0 0.0 0 0 1.0000001 0.0 0 0 0 1.0</transform>
+			<node type="NodeDummy" id="1730120861" name="general_perset_0">
+				<properties>
+					<property parent="142610410330acaca780401b1a1ff6be64ec2f05" guid="5e696536e8629b1d791361d8a97efb57fb8560ca">
+						<parameter name="horizontalAxis">
+							<parameter name="axis">1</parameter>
+						</parameter>
+						<parameter name="upButton">
+							<parameter name="bindType">1</parameter>
+							<parameter name="key">32</parameter>
+						</parameter>
+						<parameter name="rightButton">
+							<parameter name="bindType">1</parameter>
+							<parameter name="key">47</parameter>
+						</parameter>
+						<parameter name="downButton">
+							<parameter name="bindType">1</parameter>
+							<parameter name="key">46</parameter>
+						</parameter>
+						<parameter name="leftButton">
+							<parameter name="bindType">1</parameter>
+							<parameter name="key">45</parameter>
+						</parameter>
+						<parameter name="fire1Button">
+							<parameter name="bindType">2</parameter>
+						</parameter>
+						<parameter name="fire2Button">
+							<parameter name="bindType">2</parameter>
+							<parameter name="button">2</parameter>
+						</parameter>
+						<parameter name="fire3Button">
+							<parameter name="bindType">2</parameter>
+							<parameter name="button">3</parameter>
+						</parameter>
+						<parameter name="fire4Button">
+							<parameter name="bindType">2</parameter>
+							<parameter name="button">1</parameter>
+						</parameter>
+						<parameter name="jumpButton">
+							<parameter name="bindType">1</parameter>
+							<parameter name="key">73</parameter>
+						</parameter>
+						<parameter name="crouchButton">
+							<parameter name="bindType">1</parameter>
+							<parameter name="key">70</parameter>
+						</parameter>
+						<parameter name="submitButton">
+							<parameter name="bindType">1</parameter>
+							<parameter name="key">43</parameter>
+						</parameter>
+						<parameter name="cancelButton">
+							<parameter name="bindType">1</parameter>
+						</parameter>
+						<parameter name="additionalHorizontalAxis">
+							<parameter name="axis">1</parameter>
+						</parameter>
+						<parameter name="additionalUpButton">
+							<parameter name="bindType">1</parameter>
+							<parameter name="key">84</parameter>
+						</parameter>
+						<parameter name="additionalRightButton">
+							<parameter name="bindType">1</parameter>
+							<parameter name="key">87</parameter>
+						</parameter>
+						<parameter name="additionalDownButton">
+							<parameter name="bindType">1</parameter>
+							<parameter name="key">86</parameter>
+						</parameter>
+						<parameter name="additionalLeftButton">
+							<parameter name="bindType">1</parameter>
+							<parameter name="key">85</parameter>
+						</parameter>
+					</property>
+				</properties>
+				<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			</node>
+		</node>
+		<node type="NodeDummy" id="1176065815" name="vr_input">
+			<properties>
+				<property parent="21eef5e42ece47f3d44e6cb6e180fc9dbff75558" guid="0fd41570a2aeaa0fb2869022fe03d119136187a4">
+					<parameter name="inputName">vr_input</parameter>
+					<parameter name="leftControllerPresets">
+						<value index="0">7f5dc6566f9e49bd2c4efff8f5a6c2f731b443ea</value>
+					</parameter>
+					<parameter name="rightControllerPresets">
+						<value index="0">9ac2ea95aa593af031e2918f41e651a25279a499</value>
+					</parameter>
+					<parameter name="generalPresets">
+						<value index="0">6aa132e8d98ef92794c6245a49c4a7f1bcde809c</value>
+					</parameter>
+				</property>
+			</properties>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			<node type="NodeDummy" id="878142934" name="left_preset_0">
+				<properties>
+					<property parent="966f78f019b7b78faadd3fa247d7ba990fad6324" guid="7f5dc6566f9e49bd2c4efff8f5a6c2f731b443ea">
+						<parameter name="grabButton">
+							<parameter name="bindType">1</parameter>
+							<parameter name="button">12</parameter>
+							<parameter name="clickableAxis">1</parameter>
+						</parameter>
+						<parameter name="useButton">
+							<parameter name="bindType">1</parameter>
+							<parameter name="button">3</parameter>
+							<parameter name="clickableAxis">19</parameter>
+						</parameter>
+						<parameter name="teleportationButton">
+							<parameter name="bindType">1</parameter>
+							<parameter name="button">2</parameter>
+							<parameter name="clickableAxis">19</parameter>
+						</parameter>
+						<parameter name="actionButton">
+							<parameter name="bindType">1</parameter>
+							<parameter name="button">1</parameter>
+						</parameter>
+						<parameter name="triggerAxis">19</parameter>
+						<parameter name="grabAxis">19</parameter>
+					</property>
+				</properties>
+				<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="783112119" name="right_preset_0">
+				<properties>
+					<property parent="966f78f019b7b78faadd3fa247d7ba990fad6324" guid="9ac2ea95aa593af031e2918f41e651a25279a499">
+						<parameter name="side">1</parameter>
+						<parameter name="grabButton">
+							<parameter name="bindType">1</parameter>
+							<parameter name="button">28</parameter>
+						</parameter>
+						<parameter name="useButton">
+							<parameter name="bindType">1</parameter>
+							<parameter name="button">19</parameter>
+							<parameter name="clickableAxis">19</parameter>
+						</parameter>
+						<parameter name="teleportationButton">
+							<parameter name="bindType">1</parameter>
+							<parameter name="button">18</parameter>
+						</parameter>
+						<parameter name="actionButton">
+							<parameter name="bindType">1</parameter>
+							<parameter name="button">17</parameter>
+						</parameter>
+						<parameter name="triggerAxis">19</parameter>
+						<parameter name="grabAxis">19</parameter>
+					</property>
+				</properties>
+				<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="1789884974" name="general_preset_0">
+				<properties>
+					<property parent="ebec5202624de979123b04841e1ec6135ec59456" guid="6aa132e8d98ef92794c6245a49c4a7f1bcde809c">
+						<parameter name="horizontalAxis">
+							<parameter name="axis">1</parameter>
+						</parameter>
+						<parameter name="rightButton">
+							<parameter name="bindType">3</parameter>
+							<parameter name="clickableAxis">3</parameter>
+							<parameter name="side">1</parameter>
+						</parameter>
+						<parameter name="leftButton">
+							<parameter name="bindType">3</parameter>
+							<parameter name="clickableAxis">5</parameter>
+							<parameter name="side">1</parameter>
+						</parameter>
+					</property>
+				</properties>
+				<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			</node>
+		</node>
+	</node>
+	<node type="NodeDummy" id="1415985369" name="vr_movement_manager">
+		<properties>
+			<property parent="b7b50bc8d9da3c8729d0d03ae4aaa251afae777c" guid="46e05910ebdfd92f9cecb4c22b6b6d39e8f93544">
+				<parameter name="player">89be2ab12b62a45ccae9f40b969fb9eeaede3875</parameter>
+				<parameter name="movements">
+					<value index="0">1103217b9df1a89e0251776579014180471846df</value>
+					<value index="1">4e7a2eef7cad8f82bc1f08f907e69e04f47e9193</value>
+					<value index="2">2e71be207b165aff47ba2c52628ddf899914e354</value>
+					<value index="3">9a90d5ada8d1bb28a68f6467a1c7169afb967531</value>
+					<value index="4">429f0d844fc93b133c0b8556e58afcbdf3a616f8</value>
+					<value index="5">ad1670b3f8f4fe7657c8e35df04e8d1883fbad97</value>
+				</parameter>
+			</property>
+		</properties>
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="NodeDummy" id="502789935" name="turn_movement">
+			<properties>
+				<property parent="aaeb341eb8128ce5bbe05900db49785f6666ea32" guid="1103217b9df1a89e0251776579014180471846df">
+					<parameter name="turnMode">1</parameter>
+				</property>
+			</properties>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="NodeDummy" id="1843660751" name="walk_movement">
+			<properties>
+				<property parent="4e91baa083d12d7fb795dcd2d588d609808a67d4" guid="4e7a2eef7cad8f82bc1f08f907e69e04f47e9193"/>
+			</properties>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="NodeDummy" id="1403566494" name="teleportation_movement">
+			<properties>
+				<property parent="7d978265b6f1d0803c4989df0fe0cdb2b3305169" guid="2e71be207b165aff47ba2c52628ddf899914e354">
+					<parameter name="rayIntersectionMask">0x3</parameter>
+					<parameter name="teleportationMask">0x4</parameter>
+					<parameter name="allowedPoint">1938997060</parameter>
+					<parameter name="forbiddenPoint">727763352</parameter>
+					<parameter name="allowedMaterial">3105dcdd9a8231cf0db5af084675244dd66a3a3b</parameter>
+					<parameter name="forbiddenMaterial">109731041b080893a59cf4d617daa63dccbab278</parameter>
+				</property>
+			</properties>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			<node type="ObjectMeshStatic" id="1938997060" name="teleport_allowed_point">
+				<streaming_mode_vram>0</streaming_mode_vram>
+				<streaming_mode_ram>0</streaming_mode_ram>
+				<mesh_name>guid://e4c4b7ea318d86414075aaac0f35261be7f3a4be</mesh_name>
+				<surface name="vive_teleport_white_mat" intersection="1" physics_friction="1" physics_restitution="1" material="59a32f17aa09797694f75b73ea4dccfbde3bd60a"/>
+				<surface name="vive_teleport_black_mat" intersection="1" physics_friction="1" physics_restitution="1" material="9f53b18cb6a39966c5c5483d1433599916351a48"/>
+				<transform>0.99999988 -2.8421709e-14 0 0.0 2.8421709e-14 0.99999988 0 0.0 0 0 1 0.0 -0.5 0 0.050000001 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="727763352" name="teleport_forbidden_point">
+				<streaming_mode_vram>0</streaming_mode_vram>
+				<streaming_mode_ram>0</streaming_mode_ram>
+				<mesh_name>guid://e4c4b7ea318d86414075aaac0f35261be7f3a4be</mesh_name>
+				<surface name="vive_teleport_white_mat" intersection="1" physics_friction="1" physics_restitution="1" material="fa04911aec04adb10c294b5caa8a6f0be5c7f8ee"/>
+				<surface name="vive_teleport_black_mat" intersection="1" physics_friction="1" physics_restitution="1" material="9f53b18cb6a39966c5c5483d1433599916351a48"/>
+				<transform>0.99999982 -2.8421709e-14 0 0.0 2.8421709e-14 0.99999982 0 0.0 0 0 1 0.0 0.5 0 0.050000001 1.0</transform>
+			</node>
+		</node>
+		<node type="NodeDummy" id="116302625" name="pc_turn_movement">
+			<properties>
+				<property parent="a601f44b4d313d2ebfcd62b572de14908ff75eaf" guid="9a90d5ada8d1bb28a68f6467a1c7169afb967531"/>
+			</properties>
+			<transform>1.0000001 0 0 0.0 0 1.0000001 0 0.0 0 0 1.0000001 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="NodeDummy" id="432366092" name="pc_walk_movement">
+			<properties>
+				<property parent="ce41cfa5359f3cc05679891f714443f2d29ad2a9" guid="429f0d844fc93b133c0b8556e58afcbdf3a616f8"/>
+			</properties>
+			<transform>1.0000001 0 0 0.0 0 1.0000001 0 0.0 0 0 1.0000001 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="NodeDummy" id="1135719931" name="crouch_movement">
+			<properties>
+				<property parent="c9afda98e44d9d171836178a510921613fab4b4c" guid="ad1670b3f8f4fe7657c8e35df04e8d1883fbad97"/>
+			</properties>
+			<transform>1.0000001 0 0 0.0 0 1.0000001 0 0.0 0 0 1.0000001 0.0 0 0 0 1.0</transform>
+		</node>
+	</node>
+	<node type="NodeDummy" id="2065156839" name="vr_interaction_manager">
+		<properties>
+			<property parent="ecebe2be654f2b05201520a078215b7f8ffc32d2" guid="6fba162e383667b5e5315590e317abaff7216542">
+				<parameter name="grabCollisionMask">0x4</parameter>
+			</property>
+		</properties>
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+	</node>
+	<node type="ObjectGui" id="1451798151" name="menu_attached_to_hand">
+		<gui_name>core/gui/</gui_name>
+		<billboard>0</billboard>
+		<background>1</background>
+		<depth_test>1</depth_test>
+		<mouse_show>1</mouse_show>
+		<control_distance>2</control_distance>
+		<polygon_offset>1</polygon_offset>
+		<physical_width>0.300000012</physical_width>
+		<physical_height>0.300000012</physical_height>
+		<screen_width>300</screen_width>
+		<screen_height>300</screen_height>
+		<surface name="gui" intersection="1" material="1f14ce52ff2d0d126d21be317e860a4a76477183"/>
+		<properties>
+			<property parent="66e64cc27e35dd56fe75bfb9f98840e60c099ef6" guid="363492c855410426a66b9badf448959db7225461">
+				<parameter name="useSelfTransform">0</parameter>
+				<parameter name="position">0 0.100000001 -0.0299999993</parameter>
+			</property>
+			<property parent="4b656d682954f1a7c756c2daf4c3b471434d231c" guid="923db1b874330e0661de8e77e644204f7444e24c"/>
+		</properties>
+		<transform>1 -1.6103333e-14 -4.5474741e-13 0.0 1.6103333e-14 1 4.5474741e-13 0.0 4.5474741e-13 -4.5474741e-13 1 0.0 0.26721212 0.12076534 1.6999997 1.0</transform>
+	</node>
+	<node type="ObjectGui" id="610439020" name="menu_attached_to_head">
+		<gui_name>core/gui/</gui_name>
+		<billboard>0</billboard>
+		<background>1</background>
+		<depth_test>1</depth_test>
+		<mouse_show>1</mouse_show>
+		<control_distance>2</control_distance>
+		<polygon_offset>1</polygon_offset>
+		<physical_width>0.400000006</physical_width>
+		<physical_height>0.5</physical_height>
+		<screen_width>300</screen_width>
+		<screen_height>300</screen_height>
+		<surface name="gui" intersection="1" material="1f14ce52ff2d0d126d21be317e860a4a76477183"/>
+		<properties>
+			<property parent="e3483b9f616254729b34a9299e82e07459d69143" guid="d3666cc86782298768c5d93a99b2175146ad687c">
+				<parameter name="distance">0.400000006</parameter>
+				<parameter name="nodeForwardDirectionAxis">2</parameter>
+				<parameter name="fixedPosition">1</parameter>
+				<parameter name="updatePosition">1</parameter>
+			</property>
+			<property parent="4b656d682954f1a7c756c2daf4c3b471434d231c" guid="a416e7b152323d5c6b6ab90b48a7baee02ac4575"/>
+		</properties>
+		<transform>1 -1.6103331e-14 -4.5474741e-13 0.0 1.6103331e-14 1 4.5474741e-13 0.0 4.5474741e-13 -4.5474741e-13 1 0.0 -0.53984427 0.12076534 1.6999996 1.0</transform>
+	</node>
+</nodes>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>6a62f9ab74a2c30e0ec86f15b1ebf57041250a0f</guid>
+	<type>component</type>
+	<hash>819349b3</hash>
+	<runtimes>
+		<runtime id="6a62f9ab74a2c30e0ec86f15b1ebf57041250a0f" name="VRPlayer.cs" link="0"/>
+		<runtime id="2fecb15d4c34031821a6ab971c02d40a7e09b3e1" name="VRPlayer.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

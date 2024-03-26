@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>193da21fe82f88f2570b53a956d888f44bd31fc3</guid>
+	<type>material</type>
+	<hash>96679f25</hash>
+	<runtimes>
+		<runtime id="193da21fe82f88f2570b53a956d888f44bd31fc3" name="oculus_touch_mat1" link="0" type="5"/>
+	</runtimes>
+</asset>

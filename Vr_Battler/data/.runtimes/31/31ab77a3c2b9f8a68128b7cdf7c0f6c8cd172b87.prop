@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.18.0.1" name="VRHandShapeInteraction" guid="31ab77a3c2b9f8a68128b7cdf7c0f6c8cd172b87" parent="841c0b473848cffa6a691f118ecf4d3ca097c76b" editable="0">
+	<parameter name="showInteractTrigger" type="toggle" title="Show Interact Trigger" group="VR Hand Shape Interaction">0</parameter>
+</property>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>138eaccbf3599bae80012f35d17a77104ba75f2f</guid>
+	<type>component</type>
+	<hash>007ccd1a</hash>
+	<runtimes>
+		<runtime id="138eaccbf3599bae80012f35d17a77104ba75f2f" name="VRBasestationController.cs" link="0"/>
+		<runtime id="d95d757dfc32b8b84a93a4b7ef6e3aaa0b01aa01" name="VRBasestationController.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

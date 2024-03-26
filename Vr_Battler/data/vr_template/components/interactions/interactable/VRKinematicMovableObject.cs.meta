@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>af851a4ec04a5d55beb28eb0ff8a524f5cf79b62</guid>
+	<type>component</type>
+	<hash>5a04ad2b</hash>
+	<runtimes>
+		<runtime id="af851a4ec04a5d55beb28eb0ff8a524f5cf79b62" name="VRKinematicMovableObject.cs" link="0"/>
+		<runtime id="750dc458d6f4fbd75b36674aa193ae214988f10c" name="VRKinematicMovableObject.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.18.0.1" name="WalkMovement" guid="4e91baa083d12d7fb795dcd2d588d609808a67d4" parent="8620ca97e590670a7dcc2ae128dbc6cc4ab953bb" editable="0">
+	<parameter name="speed" type="float" title="Speed" group="Walk" min="0">1.5</parameter>
+	<parameter name="deadZone" type="float" title="Dead Zone" group="Walk" min="0" max="1">0.0500000007</parameter>
+	<parameter name="useControllerTransform" type="toggle" title="Use Controller Transform" group="Walk">0</parameter>
+</property>

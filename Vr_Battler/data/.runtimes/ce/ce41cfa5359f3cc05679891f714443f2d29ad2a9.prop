@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.18.0.1" name="PCWalkMovement" guid="ce41cfa5359f3cc05679891f714443f2d29ad2a9" parent="8620ca97e590670a7dcc2ae128dbc6cc4ab953bb" editable="0">
+	<parameter name="speed" type="float" title="Speed" group="Walk" min="0">1.5</parameter>
+</property>

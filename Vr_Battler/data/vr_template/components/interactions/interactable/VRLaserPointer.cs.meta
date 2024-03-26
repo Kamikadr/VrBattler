@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>ae956917e523738a47becd61f56d074cda4c9a3b</guid>
+	<type>component</type>
+	<hash>bad69811</hash>
+	<runtimes>
+		<runtime id="ae956917e523738a47becd61f56d074cda4c9a3b" name="VRLaserPointer.cs" link="0"/>
+		<runtime id="c2b79fc0e328901f01f19ef220aa71a9e7e10ef4" name="VRLaserPointer.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

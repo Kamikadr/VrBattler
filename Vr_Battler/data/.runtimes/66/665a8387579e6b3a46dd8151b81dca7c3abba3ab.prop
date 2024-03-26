@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.18.0.1" name="VRPhysicMovableObject" guid="665a8387579e6b3a46dd8151b81dca7c3abba3ab" parent="07186cadf0de66280e5613672797f99a2ca3fc31" editable="0">
+	<parameter name="linearVelocityFactor" type="float" title="Linear Velocity Factor" group="VR Physics Movable Object" min="0">1</parameter>
+	<parameter name="angularVelocityfactor" type="float" title="Angular Velocity Factor" group="VR Physics Movable Object" min="0">1</parameter>
+	<parameter name="useHandyTransform" type="toggle" title="Use Handy Transform" group="VR Physics Movable Object">0</parameter>
+	<parameter name="leftHandPosition" type="vec3" title="Left Hand Position" group="VR Physics Movable Object" useHandyTransform="1">0 0 0</parameter>
+	<parameter name="leftHandRotation" type="vec3" title="Left Hand Rotation" group="VR Physics Movable Object" useHandyTransform="1">0 0 0</parameter>
+	<parameter name="rightHandPosition" type="vec3" title="Right Hand Position" group="VR Physics Movable Object" useHandyTransform="1">0 0 0</parameter>
+	<parameter name="rightHandRotation" type="vec3" title="Right Hand Rotation" group="VR Physics Movable Object" useHandyTransform="1">0 0 0</parameter>
+	<parameter name="pcHandPosition" type="vec3" title="PC Hand Position" group="VR Physics Movable Object" useHandyTransform="1">0 0 0</parameter>
+	<parameter name="pcHandRotation" type="vec3" title="PC Hand Rotation" group="VR Physics Movable Object" useHandyTransform="1">0 0 0</parameter>
+</property>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>986c92f996d2a0047146ab93e6bd3bd631c8413d</guid>
+	<type>fbx</type>
+	<hash>c93c9614</hash>
+	<runtimes>
+		<runtime id="986c92f996d2a0047146ab93e6bd3bd631c8413d" name="oculus_touch_right.fbx" link="0"/>
+		<runtime id="2cc6f3768e10545d31f54a18bdc14697c61eb30a" name="oculus_touch_right.node" link="1" type="3">
+			<parameters>
+				<parameter type="string" name="id">d45e9511</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="034e06e12a1bf2cc38838fbb8fa4c1de1bb93fa5" name="oculus_touch_body_right.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">8f08c256</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="ab4fecc0e692791f222873f2695142a9789fabf4" name="oculus_touch_right_grip.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">2a4c2b12</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="c5e1e6c3d3e45d46180793edebe6e4688451fca7" name="oculus_touch_right_button_menu.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">7b2a1571</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="4b9251da5dc3f7713e028a1ce2531ecbdabf65ae" name="oculus_touch_right_button_b.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">2ebddb7e</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="88a871355844d1108dc9f12f735fecc26f954539" name="oculus_touch_right_button_a.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">a82bf7b9</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="23292d44d93357d34ca37b1648ecf77d864852b8" name="oculus_touch_right_trigger.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">bf173136</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="f30876b78b08e4aa2b984c018d8c356c8162b1db" name="oculus_touch_right_thumbstick.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">514e8f32</parameter>
+			</parameters>
+		</runtime>
+	</runtimes>
+	<parameters>
+		<parameter type="float" name="angular_deflection">0.699999988</parameter>
+		<parameter type="bool" name="asset_name_as_prefix">0</parameter>
+		<parameter type="string" name="base_material_mode">inherit_mesh_base</parameter>
+		<parameter type="float" name="bound_size">10000</parameter>
+		<parameter type="bool" name="create_transform_bones_for_joints">0</parameter>
+		<parameter type="float" name="fps">30</parameter>
+		<parameter type="string" name="front_axis">default</parameter>
+		<parameter type="bool" name="import_animations">1</parameter>
+		<parameter type="bool" name="import_bones_without_skin">0</parameter>
+		<parameter type="bool" name="import_cameras">1</parameter>
+		<parameter type="bool" name="import_lights">1</parameter>
+		<parameter type="bool" name="import_materials">1</parameter>
+		<parameter type="string" name="import_materials_mode">take_by_name_or_create</parameter>
+		<parameter type="bool" name="import_meshes">1</parameter>
+		<parameter type="bool" name="import_morph_targets">0</parameter>
+		<parameter type="bool" name="import_tangent_space">0</parameter>
+		<parameter type="bool" name="import_textures">1</parameter>
+		<parameter type="bool" name="invert_gchannel_for_normal_maps">0</parameter>
+		<parameter type="bool" name="joints_reorientation">1</parameter>
+		<parameter type="string" name="lightmaps">{&quot;guid://034e06e12a1bf2cc38838fbb8fa4c1de1bb93fa5&quot;:{&quot;oculus_touch_mat1&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://88a871355844d1108dc9f12f735fecc26f954539&quot;:{&quot;oculus_touch_mat1&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://4b9251da5dc3f7713e028a1ce2531ecbdabf65ae&quot;:{&quot;oculus_touch_mat1&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://c5e1e6c3d3e45d46180793edebe6e4688451fca7&quot;:{&quot;oculus_touch_mat1&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://ab4fecc0e692791f222873f2695142a9789fabf4&quot;:{&quot;oculus_touch_mat1&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://f30876b78b08e4aa2b984c018d8c356c8162b1db&quot;:{&quot;oculus_touch_mat1&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://23292d44d93357d34ca37b1648ecf77d864852b8&quot;:{&quot;oculus_touch_mat1&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}}}</parameter>
+		<parameter type="float" name="linear_deflection">0.200000003</parameter>
+		<parameter type="string" name="lods">_lod_0,-1e+09,3,0,0,100,0.01,0,60;_lod_1,3,9,0,0,20,0.01,1,60;_lod_2,9,1e+09,0,0,20,0.01,1,60</parameter>
+		<parameter type="string" name="lods_mode">off</parameter>
+		<parameter type="string" name="material_guids">oculus_touch_mat1,193da21fe82f88f2570b53a956d888f44bd31fc3</parameter>
+		<parameter type="bool" name="merge_similar_materials">0</parameter>
+		<parameter type="bool" name="merge_static_meshes">0</parameter>
+		<parameter type="bool" name="merge_surfaces_by_materials">0</parameter>
+		<parameter type="float" name="morph_targets_normals_angle">180</parameter>
+		<parameter type="string" name="morph_targets_normals_mode">import</parameter>
+		<parameter type="bool" name="need_repivot">0</parameter>
+		<parameter type="bool" name="need_split">0</parameter>
+		<parameter type="bool" name="need_triagulate">1</parameter>
+		<parameter type="int" name="num_lods">3</parameter>
+		<parameter type="string" name="prefix_materials"/>
+		<parameter type="string" name="resolution">256</parameter>
+		<parameter type="float" name="scale">1</parameter>
+		<parameter type="bool" name="skip_empty_nodes">0</parameter>
+		<parameter type="int" name="smooth_animation_size">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_0">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_1">0</parameter>
+		<parameter type="string" name="up_axis">default</parameter>
+		<parameter type="bool" name="use_instances">1</parameter>
+		<parameter type="int" name="uv_ch">1</parameter>
+		<parameter type="bool" name="vertex_cache">1</parameter>
+		<parameter type="string" name="workflow">metalness</parameter>
+	</parameters>
+</asset>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>6c326077390c436a9a449bc19dd2c22c2fcc579b</guid>
+	<type>launch_settings</type>
+	<hash>d0934d18</hash>
+	<runtimes>
+		<runtime id="6c326077390c436a9a449bc19dd2c22c2fcc579b" name="OpenVR_Launcher.launch" link="0"/>
+	</runtimes>
+</asset>

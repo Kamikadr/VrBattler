@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.18.0.1">
+	<node type="ObjectMeshStatic" id="1504050897" name="button">
+		<streaming_mode_vram>0</streaming_mode_vram>
+		<streaming_mode_ram>0</streaming_mode_ram>
+		<mesh_name>guid://75350f762ade2aabfd454ca852a021f48e149f10</mesh_name>
+		<surface name="button_mat" intersection="1" physics_friction="1" physics_restitution="1" material="152c435e75d6ef60e1df8cbe24f612c42b50be6e"/>
+		<transform>0.9999997 -1.1324879e-06 0 0.0 1.1324879e-06 0.9999997 0 0.0 0 0 1 0.0 0 0 1.1920929e-07 1.0</transform>
+		<node type="ObjectMeshStatic" id="1338845692" name="button">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://2ccc6e371864baba27a45acd8f5512e81a318290</mesh_name>
+			<surface name="button_mat" intersection="1" physics_friction="1" physics_restitution="1" material="152c435e75d6ef60e1df8cbe24f612c42b50be6e"/>
+			<body type="BodyDummy" id="1479903380" frozen="0">
+				<shape type="ShapeCylinder" id="937337921" transform="1 0 0 0 0 1 0 0 0 0 1 0 -1.86264515e-08 2.60770321e-08 -0.00664260238 1">
+					<radius>0.0648899972</radius>
+					<height>0.0401484743</height>
+					<collision_mask>0x7</collision_mask>
+				</shape>
+			</body>
+			<properties>
+				<property parent="3e92c875792ebf50b2d88a6f1d6d35026b4b7079" guid="f2667d3a7349f6c77dbb36033b2d8b64dc7e49b4">
+					<parameter name="playPingPong">0</parameter>
+					<parameter name="useQuaternions">1</parameter>
+					<parameter name="changePosition">1</parameter>
+					<parameter name="disabledPosition">0 0 0.0540000014</parameter>
+					<parameter name="enabledPosition">0 0 0.0309999995</parameter>
+				</property>
+				<property parent="1f59f899f3fe89246f8442330f81a1f67d9230dd" guid="44da84d6b05552ef864d4a81e282dbebf2ca6983">
+					<parameter name="nodesToSwitch">
+						<value index="0">573603115</value>
+					</parameter>
+				</property>
+				<property parent="804a381ccd4af4cb6e9943ae872cb735cee05f10" guid="940898fced7e254d52450cedab9966d3848b8106"/>
+			</properties>
+			<transform>1 -3.4106051e-13 0 0.0 3.4106051e-13 1 0 0.0 0 0 1 0.0 0 0 0.054339886 1.0</transform>
+		</node>
+		<node type="ObjectGui" id="573603115" name="world_menu">
+			<gui_name>core/gui/</gui_name>
+			<billboard>0</billboard>
+			<background>1</background>
+			<depth_test>1</depth_test>
+			<mouse_show>1</mouse_show>
+			<control_distance>2</control_distance>
+			<polygon_offset>1</polygon_offset>
+			<physical_width>0.400000006</physical_width>
+			<physical_height>0.300000012</physical_height>
+			<screen_width>300</screen_width>
+			<screen_height>300</screen_height>
+			<surface name="gui" intersection="1" material="1f14ce52ff2d0d126d21be317e860a4a76477183"/>
+			<properties>
+				<property parent="4b656d682954f1a7c756c2daf4c3b471434d231c" guid="90e561f8c0dd50041b7b699b64dc514a2682e4ad"/>
+			</properties>
+			<transform>-0.99999988 -4.0133909e-07 6.9513993e-07 0.0 8.0267836e-07 -0.49999988 0.86602533 0.0 2.8421694e-14 0.86602503 0.49999961 0.0 1.7881393e-07 -0.17039372 0.18682331 1.0</transform>
+		</node>
+	</node>
+</nodes>

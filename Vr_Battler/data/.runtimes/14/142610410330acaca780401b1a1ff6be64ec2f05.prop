@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.18.0.1" name="PCGeneralInput" guid="142610410330acaca780401b1a1ff6be64ec2f05" parent="2fe33f7b69472e9e7f0d4565c09eb7802d1b44df" editable="0">
+	<struct name="ButtonBind">
+		<parameter name="bindType" type="switch" title="Bind Type" items="NONE,KEY,MOUSE_BUTTON">0</parameter>
+		<parameter name="key" type="switch" bindType="1" items="ESC,F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,F11,F12,PRINTSCREEN,SCROLL_LOCK,PAUSE,BACK_QUOTE,DIGIT_1,DIGIT_2,DIGIT_3,DIGIT_4,DIGIT_5,DIGIT_6,DIGIT_7,DIGIT_8,DIGIT_9,DIGIT_0,MINUS,EQUALS,BACKSPACE,TAB,Q,W,E,R,T,Y,U,I,O,P,LEFT_BRACKET,RIGHT_BRACKET,ENTER,CAPS_LOCK,A,S,D,F,G,H,J,K,L,SEMICOLON,QUOTE,BACK_SLASH,LEFT_SHIFT,LESS,Z,X,C,V,B,N,M,COMMA,DOT,SLASH,RIGHT_SHIFT,LEFT_CTRL,LEFT_CMD,LEFT_ALT,SPACE,RIGHT_ALT,RIGHT_CMD,MENU,RIGHT_CTRL,INSERT,DELETE,HOME,END,PGUP,PGDOWN,UP,LEFT,DOWN,RIGHT,NUM_LOCK,NUMPAD_DIVIDE,NUMPAD_MULTIPLY,NUMPAD_MINUS,NUMPAD_DIGIT_7,NUMPAD_DIGIT_8,NUMPAD_DIGIT_9,NUMPAD_PLUS,NUMPAD_DIGIT_4,NUMPAD_DIGIT_5,NUMPAD_DIGIT_6,NUMPAD_DIGIT_1,NUMPAD_DIGIT_2,NUMPAD_DIGIT_3,NUMPAD_ENTER,NUMPAD_DIGIT_0,NUMPAD_DOT">0</parameter>
+		<parameter name="button" type="switch" bindType="2" items="LEFT,MIDDLE,RIGHT,DCLICK,AUX_0,AUX_1,AUX_2,AUX_3">0</parameter>
+	</struct>
+	<struct name="AxisBind">
+		<parameter name="axis" type="switch" items="VERTICAl,HORIZONTAL">0</parameter>
+	</struct>
+	<parameter name="horizontalAxis" type="AxisBind" title="Horizontal Axis" group="Bind"/>
+	<parameter name="verticalAxis" type="AxisBind" title="Vertical Axis" group="Bind"/>
+	<parameter name="upButton" type="ButtonBind" title="Up" group="Bind"/>
+	<parameter name="rightButton" type="ButtonBind" title="Right" group="Bind"/>
+	<parameter name="downButton" type="ButtonBind" title="Down" group="Bind"/>
+	<parameter name="leftButton" type="ButtonBind" title="Left" group="Bind"/>
+	<parameter name="fire1Button" type="ButtonBind" title="Fire 1" group="Bind"/>
+	<parameter name="fire2Button" type="ButtonBind" title="Fire 2" group="Bind"/>
+	<parameter name="fire3Button" type="ButtonBind" title="Fire 3" group="Bind"/>
+	<parameter name="fire4Button" type="ButtonBind" title="Fire 4" group="Bind"/>
+	<parameter name="jumpButton" type="ButtonBind" title="Jump" group="Bind"/>
+	<parameter name="crouchButton" type="ButtonBind" title="Crouch" group="Bind"/>
+	<parameter name="submitButton" type="ButtonBind" title="Submit" group="Bind"/>
+	<parameter name="cancelButton" type="ButtonBind" title="Cancel" group="Bind"/>
+	<parameter name="additionalHorizontalAxis" type="AxisBind" title="Additional Horizontal" group="Bind"/>
+	<parameter name="additionalVerticalAxis" type="AxisBind" title="Additional Vertical" group="Bind"/>
+	<parameter name="additionalUpButton" type="ButtonBind" title="Additional Up" group="Bind"/>
+	<parameter name="additionalRightButton" type="ButtonBind" title="Additional Right" group="Bind"/>
+	<parameter name="additionalDownButton" type="ButtonBind" title="Additional Down" group="Bind"/>
+	<parameter name="additionalLeftButton" type="ButtonBind" title="Additional Left" group="Bind"/>
+	<parameter name="additionalSubmitButton" type="ButtonBind" title="Additional Submit" group="Bind"/>
+	<parameter name="additionalCancelButton" type="ButtonBind" title="Additional Cancel" group="Bind"/>
+</property>

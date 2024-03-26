@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>2899b1f2e9c568a9fba999f4a036fcc3f6fa7b46</guid>
+	<type>component</type>
+	<hash>3dca434c</hash>
+	<runtimes>
+		<runtime id="2899b1f2e9c568a9fba999f4a036fcc3f6fa7b46" name="VRSelectionTest.cs" link="0"/>
+		<runtime id="804a381ccd4af4cb6e9943ae872cb735cee05f10" name="VRSelectionTest.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

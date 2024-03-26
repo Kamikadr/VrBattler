@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>d79ed80692284fad801eed283966ee6771b5189a</guid>
+	<type>world</type>
+	<hash>1d305e96</hash>
+	<runtimes>
+		<runtime id="d79ed80692284fad801eed283966ee6771b5189a" name="vr_sample.world" link="0"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="physics_settings_path"/>
+		<parameter type="string" name="render_settings_path">guid://2e602efe80d88a458f4276e09a0c3cbfdde92312</parameter>
+		<parameter type="string" name="script_name"/>
+		<parameter type="string" name="sound_settings_path"/>
+		<parameter type="string" name="viewports_settings"/>
+	</parameters>
+</asset>

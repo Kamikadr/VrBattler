@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.18.0.1">
+	<node type="ObjectMeshStatic" id="1507530760" name="laser_pointer">
+		<streaming_mode_vram>0</streaming_mode_vram>
+		<streaming_mode_ram>0</streaming_mode_ram>
+		<mesh_name>guid://b5c55422688a1e8698f4a6eb113fc82e21531841</mesh_name>
+		<surface name="laser_pointer_mat" intersection="1" physics_friction="1" physics_restitution="1" material="b142fbefd2e1aca687f321f44c0181c8f0f6aa7e"/>
+		<body type="BodyRigid" id="1851111930" frozen="0">
+			<shape type="ShapeCapsule" id="187734665" transform="0.999999881 -2.50578816e-17 -1.30104261e-18 0 -8.67361738e-19 5.96046306e-08 0.999999702 0 -9.6021349e-17 -0.999999821 5.96046377e-08 0 -0.000550270604 -2.77977256e-06 0.00139461376 1">
+				<radius>0.025545273</radius>
+				<height>0.164722681</height>
+				<collision_mask>0x7</collision_mask>
+			</shape>
+			<shape type="ShapeSphere" id="1121608276" transform="1 0 0 0 0 1 0 0 0 0 1 0 0 0.0700000003 0 1">
+				<radius>0.0199999996</radius>
+				<collision_mask>0x7</collision_mask>
+				<mass>0.00999999978</mass>
+			</shape>
+			<shape type="ShapeSphere" id="1055353251" transform="0.999999642 2.71050705e-20 1.16415308e-10 0 -2.71050705e-20 0.999999642 -3.15544625e-30 0 -1.16415336e-10 0 0.999999881 0 1.49011612e-08 -0.0700000003 8.43429007e-08 1">
+				<radius>0.0199999996</radius>
+				<collision_mask>0x7</collision_mask>
+				<mass>0.00999999978</mass>
+			</shape>
+		</body>
+		<properties>
+			<property parent="610a6b56cc20aabd4a93ecf81a94cbf7ca60b8ea" guid="93bf0d301a61ea73d4a1b2f664fc36c8f9fd57fc">
+				<parameter name="useHandyTransform">1</parameter>
+			</property>
+			<property parent="c2b79fc0e328901f01f19ef220aa71a9e7e10ef4" guid="c0ca088d2261cea4a477a2bfcd03cfa876f6d32b">
+				<parameter name="laser">1331029626</parameter>
+				<parameter name="laserRay">2139767697</parameter>
+				<parameter name="laserHit">1720264636</parameter>
+				<parameter name="objText">1700755632</parameter>
+			</property>
+			<property parent="804a381ccd4af4cb6e9943ae872cb735cee05f10" guid="a756dde206458b40eb39fd187221fee23e4dce8e"/>
+		</properties>
+		<transform>0.99999785 -7.7486038e-07 0 0.0 9.5367432e-07 1.0000006 0 0.0 0 0 1.0000018 0.0 5.9604645e-08 -0.063594699 -2.2053719e-06 1.0</transform>
+		<node type="ObjectMeshStatic" id="1894407111" name="laser_pointer_button">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://808b3c7a9eaf511c019ca8d0a878ba8f1e9bebb0</mesh_name>
+			<surface name="laser_pointer_mat" physics_friction="1" physics_restitution="1" material="b142fbefd2e1aca687f321f44c0181c8f0f6aa7e"/>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 9.3696162e-10 -0.024261782 0.014145635 1.0</transform>
+		</node>
+		<node type="NodeDummy" id="1331029626" name="laser">
+			<transform>0.99999905 4.4815351e-10 -1.4167745e-07 0.0 -4.9539267e-08 0.99999946 3.4552068e-07 0.0 1.4062971e-07 -3.4738332e-07 0.99999964 0.0 3.6379788e-11 0.095785312 2.9266535e-05 1.0</transform>
+			<node type="ObjectMeshStatic" id="2139767697" name="laser_ray">
+				<streaming_mode_vram>0</streaming_mode_vram>
+				<streaming_mode_ram>0</streaming_mode_ram>
+				<mesh_name>guid://3930d561089ee7d29b1c4399ae28679b15b8511a</mesh_name>
+				<surface name="laser_ray_mat" cast_shadow="0" cast_world_shadow="0" physics_friction="1" physics_restitution="1" material="b3b7f01f63d10f67a5d1e40663fc1ef1076d27cd"/>
+				<transform>0.050000124 0 0 0.0 0 74.999649 0 0.0 0 0 0.050000057 0.0 0 -0.01535511 -3.2340836e-08 1.0</transform>
+			</node>
+			<node type="NodeReference" id="1720264636" name="laser_hit">
+				<reference>guid://81e8e9678e89cdbef1dad1ebdcb239f3aa99c185</reference>
+				<transform>0.99999875 3.2832759e-10 1.1641532e-09 0.0 -4.9582923e-08 0.99995875 3.4552068e-07 0.0 -2.0954758e-09 -3.4715049e-07 0.99999923 0.0 0 0 0 1.0</transform>
+			</node>
+			<node type="ObjectText" id="1700755632" enabled="0" name="laser_label">
+				<font_name>core/gui/font.ttf</font_name>
+				<text>Label</text>
+				<text_wrap_width>0</text_wrap_width>
+				<surface name="text" material="196c349704185e581025cee22b1fe0d75cb85e73"/>
+				<transform>1.000003 7.446115e-07 1.4167767e-07 0.0 -7.8492769e-07 1 -3.455209e-07 0.0 -1.4062961e-07 3.4738295e-07 0.99999845 0.0 0 0 0 1.0</transform>
+			</node>
+		</node>
+	</node>
+</nodes>

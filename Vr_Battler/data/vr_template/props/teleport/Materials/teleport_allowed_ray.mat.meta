@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>3105dcdd9a8231cf0db5af084675244dd66a3a3b</guid>
+	<type>material</type>
+	<hash>d587bf93</hash>
+	<runtimes>
+		<runtime id="3105dcdd9a8231cf0db5af084675244dd66a3a3b" name="teleport_allowed_ray" link="0" type="5"/>
+	</runtimes>
+</asset>

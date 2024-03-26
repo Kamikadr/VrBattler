@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>fa04911aec04adb10c294b5caa8a6f0be5c7f8ee</guid>
+	<type>material</type>
+	<hash>b65e17a8</hash>
+	<runtimes>
+		<runtime id="fa04911aec04adb10c294b5caa8a6f0be5c7f8ee" name="vive_teleport_red_mat" link="0" type="5"/>
+	</runtimes>
+</asset>

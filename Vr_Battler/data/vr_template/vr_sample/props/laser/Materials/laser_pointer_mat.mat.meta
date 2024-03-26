@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>b142fbefd2e1aca687f321f44c0181c8f0f6aa7e</guid>
+	<type>material</type>
+	<hash>de04e6ab</hash>
+	<runtimes>
+		<runtime id="b142fbefd2e1aca687f321f44c0181c8f0f6aa7e" name="laser_pointer_mat" link="0" type="5"/>
+	</runtimes>
+</asset>

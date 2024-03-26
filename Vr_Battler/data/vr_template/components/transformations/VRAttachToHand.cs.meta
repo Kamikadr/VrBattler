@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>709363c4809ae8f42dc661936191a3818e9a8198</guid>
+	<type>component</type>
+	<hash>78e6b37c</hash>
+	<runtimes>
+		<runtime id="709363c4809ae8f42dc661936191a3818e9a8198" name="VRAttachToHand.cs" link="0"/>
+		<runtime id="66e64cc27e35dd56fe75bfb9f98840e60c099ef6" name="VRAttachToHand.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

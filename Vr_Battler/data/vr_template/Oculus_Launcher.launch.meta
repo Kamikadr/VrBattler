@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>bfda9f4ea4a01e555af35bb0c582bb4fa56af062</guid>
+	<type>launch_settings</type>
+	<hash>3d9c293d</hash>
+	<runtimes>
+		<runtime id="bfda9f4ea4a01e555af35bb0c582bb4fa56af062" name="Oculus_Launcher.launch" link="0"/>
+	</runtimes>
+</asset>

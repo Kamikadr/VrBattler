@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.18.0.1" name="VRGeneralInput" guid="ebec5202624de979123b04841e1ec6135ec59456" parent="2fe33f7b69472e9e7f0d4565c09eb7802d1b44df" editable="0">
+	<struct name="ButtonBind">
+		<parameter name="bindType" type="switch" title="Bind Type" items="NONE,BUTTON,TOUCH,CLICK_ON_AXIS">0</parameter>
+		<parameter name="button" type="switch" bindType="1" items="LEFT_A,LEFT_APPLICATIONMENU,LEFT_AXIS0,LEFT_AXIS1,LEFT_AXIS2,LEFT_AXIS3,LEFT_AXIS4,LEFT_DASHBOARD_BACK,LEFT_DPAD_DOWN,LEFT_DPAD_LEFT,LEFT_DPAD_RIGHT,LEFT_DPAD_UP,LEFT_GRIP,LEFT_STEAMVR_TOUCHPAD,LEFT_STEAMVR_TRIGGER,LEFT_SYSTEM,RIGHT_A,RIGHT_APPLICATIONMENU,RIGHT_AXIS0,RIGHT_AXIS1,RIGHT_AXIS2,RIGHT_AXIS3,RIGHT_AXIS4,RIGHT_DASHBOARD_BACK,RIGHT_DPAD_DOWN,RIGHT_DPAD_LEFT,RIGHT_DPAD_RIGHT,RIGHT_DPAD_UP,RIGHT_GRIP,RIGHT_STEAMVR_TOUCHPAD,RIGHT_STEAMVR_TRIGGER,RIGHT_SYSTEM">0</parameter>
+		<parameter name="touch" type="switch" bindType="2" items="LEFT_A,LEFT_APPLICATIONMENU,LEFT_AXIS0,LEFT_AXIS1,LEFT_AXIS2,LEFT_AXIS3,LEFT_AXIS4,LEFT_DASHBOARD_BACK,LEFT_DPAD_DOWN,LEFT_DPAD_LEFT,LEFT_DPAD_RIGHT,LEFT_DPAD_UP,LEFT_GRIP,LEFT_STEAMVR_TOUCHPAD,LEFT_STEAMVR_TRIGGER,LEFT_SYSTEM,RIGHT_A,RIGHT_APPLICATIONMENU,RIGHT_AXIS0,RIGHT_AXIS1,RIGHT_AXIS2,RIGHT_AXIS3,RIGHT_AXIS4,RIGHT_DASHBOARD_BACK,RIGHT_DPAD_DOWN,RIGHT_DPAD_LEFT,RIGHT_DPAD_RIGHT,RIGHT_DPAD_UP,RIGHT_GRIP,RIGHT_STEAMVR_TOUCHPAD,RIGHT_STEAMVR_TRIGGER,RIGHT_SYSTEM">0</parameter>
+		<parameter name="clickableAxis" type="switch" title="Clickable Axis" bindType="3" items="JOYSTICK_VERTICAL,JOYSTICK_HORIZONTAL,JOYSTICK_UP,JOYSTICK_RIGHT,JOYSTICK_DOWN,JOYSTICK_LEFT,TRIGGER,TRIGGER_UP,TRIGGER_DOWN">0</parameter>
+		<parameter name="side" type="switch" bindType="3" items="LEFT,RIGHT">0</parameter>
+	</struct>
+	<struct name="AxisBind">
+		<parameter name="side" type="switch" items="LEFT,RIGHT">0</parameter>
+		<parameter name="axis" type="switch" items="JOYSTICK_VERTICAL,JOYSTICK_HORIZONTAL,JOYSTICK_UP,JOYSTICK_RIGHT,JOYSTICK_DOWN,JOYSTICK_LEFT,TRIGGER,TRIGGER_UP,TRIGGER_DOWN">0</parameter>
+	</struct>
+	<parameter name="horizontalAxis" type="AxisBind" title="Horizontal Axis" group="Bind"/>
+	<parameter name="verticalAxis" type="AxisBind" title="Vertical Axis" group="Bind"/>
+	<parameter name="upButton" type="ButtonBind" title="Up" group="Bind"/>
+	<parameter name="rightButton" type="ButtonBind" title="Right" group="Bind"/>
+	<parameter name="downButton" type="ButtonBind" title="Down" group="Bind"/>
+	<parameter name="leftButton" type="ButtonBind" title="Left" group="Bind"/>
+	<parameter name="fire1Button" type="ButtonBind" title="Fire 1" group="Bind"/>
+	<parameter name="fire2Button" type="ButtonBind" title="Fire 2" group="Bind"/>
+	<parameter name="fire3Button" type="ButtonBind" title="Fire 3" group="Bind"/>
+	<parameter name="fire4Button" type="ButtonBind" title="Fire 4" group="Bind"/>
+	<parameter name="jumpButton" type="ButtonBind" title="Jump" group="Bind"/>
+	<parameter name="crouchButton" type="ButtonBind" title="Crouch" group="Bind"/>
+	<parameter name="submitButton" type="ButtonBind" title="Submit" group="Bind"/>
+	<parameter name="cancelButton" type="ButtonBind" title="Cancel" group="Bind"/>
+	<parameter name="additionalHorizontalAxis" type="AxisBind" title="Additional Horizontal" group="Bind"/>
+	<parameter name="additionalVerticalAxis" type="AxisBind" title="Additional Vertical" group="Bind"/>
+	<parameter name="additionalUpButton" type="ButtonBind" title="Additional Up" group="Bind"/>
+	<parameter name="additionalRightButton" type="ButtonBind" title="Additional Right" group="Bind"/>
+	<parameter name="additionalDownButton" type="ButtonBind" title="Additional Down" group="Bind"/>
+	<parameter name="additionalLeftButton" type="ButtonBind" title="Additional Left" group="Bind"/>
+	<parameter name="additionalSubmitButton" type="ButtonBind" title="Additional Submit" group="Bind"/>
+	<parameter name="additionalCancelButton" type="ButtonBind" title="Additional Cancel" group="Bind"/>
+</property>

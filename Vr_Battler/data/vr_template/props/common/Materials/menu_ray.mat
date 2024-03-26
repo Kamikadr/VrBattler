@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.18.0.1" guid="bf7f143e9201ae855d0ace20653c2aff8c85bc52" base_material="4dfec30f491f753f6e89094db6d3d695e89f9d6f">
+	<options transparent="2" blend_src="2" blend_dest="2"/>
+	<state name="emission">1</state>
+	<texture name="emission">guid://5219d6ddb5dbd1520e843a369ad2b64326bb24e2</texture>
+	<parameter name="albedo_color" expression="0">0 0 0 1</parameter>
+	<parameter name="specular" expression="0">0</parameter>
+</material>

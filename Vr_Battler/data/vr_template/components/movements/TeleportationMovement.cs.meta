@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>cfd78673cb2d9936af113f1d2949b5d875b93f57</guid>
+	<type>component</type>
+	<hash>fa1e0976</hash>
+	<runtimes>
+		<runtime id="cfd78673cb2d9936af113f1d2949b5d875b93f57" name="TeleportationMovement.cs" link="0"/>
+		<runtime id="7d978265b6f1d0803c4989df0fe0cdb2b3305169" name="TeleportationMovement.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

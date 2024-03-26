@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>3f724256761095bd7664dbf8ea6aeef715327fea</guid>
+	<type>component</type>
+	<hash>77d4bf3e</hash>
+	<runtimes>
+		<runtime id="3f724256761095bd7664dbf8ea6aeef715327fea" name="WalkMovement.cs" link="0"/>
+		<runtime id="4e91baa083d12d7fb795dcd2d588d609808a67d4" name="WalkMovement.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

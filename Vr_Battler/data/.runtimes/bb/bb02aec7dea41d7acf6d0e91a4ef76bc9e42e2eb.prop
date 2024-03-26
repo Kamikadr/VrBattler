@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.18.0.1" name="PCInput" guid="bb02aec7dea41d7acf6d0e91a4ef76bc9e42e2eb" parent="c42575c19f19d42c5394419bf53d0a3e02ab2c85" editable="0">
+	<parameter name="throwForce" type="float" title="Throw Force" min="0" max="10">7</parameter>
+</property>

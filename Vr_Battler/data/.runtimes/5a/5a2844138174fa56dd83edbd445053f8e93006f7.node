@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.18.0.1">
+	<node type="NodeDummy" id="1434977807" name="teleport_point">
+		<transform>1 2.646978e-22 -3.8213714e-15 0.0 9.2644229e-23 1 8.7422777e-08 0.0 3.8213714e-15 -8.7422777e-08 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1580743714" immovable="1" name="ViveTeleport">
+			<streaming_mode_vram>0</streaming_mode_vram>
+			<streaming_mode_ram>0</streaming_mode_ram>
+			<mesh_name>guid://e4c4b7ea318d86414075aaac0f35261be7f3a4be</mesh_name>
+			<surface name="vive_teleport_white_mat" intersection="1" material="59a32f17aa09797694f75b73ea4dccfbde3bd60a"/>
+			<surface name="vive_teleport_black_mat" intersection="1" material="9f53b18cb6a39966c5c5483d1433599916351a48"/>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0.0007823896 0.00026746941 9.9890414e-05 1.0</transform>
+		</node>
+	</node>
+</nodes>

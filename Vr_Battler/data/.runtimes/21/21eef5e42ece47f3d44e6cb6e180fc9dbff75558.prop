@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.18.0.1" name="VRInput" guid="21eef5e42ece47f3d44e6cb6e180fc9dbff75558" parent="c42575c19f19d42c5394419bf53d0a3e02ab2c85" editable="0">
+	<parameter name="joystickPressedValue" type="float" title="Joystick Pressed Value" group="Axes Pressed Values" min="0" max="1">0.5</parameter>
+	<parameter name="nonePressedValue" type="float" title="None Pressed Value" group="Axes Pressed Values" min="0" max="1">0.5</parameter>
+	<parameter name="trackpadPressedValue" type="float" title="Trackpad Value" group="Axes Pressed Values" min="0" max="1">0.5</parameter>
+	<parameter name="triggerPressedValue" type="float" title="Trigger Pressed Value" group="Axes Pressed Values" min="0" max="1">0.5</parameter>
+	<parameter name="joystickReleaseValue" type="float" title="Joystick Release Value" group="Axes Release Values" min="0" max="1">0.5</parameter>
+	<parameter name="noneReleaseValue" type="float" title="None Release Value" group="Axes Release Values" min="0" max="1">0.5</parameter>
+	<parameter name="trackpadReleaseValue" type="float" title="Trackpad Release Value" group="Axes Release Values" min="0" max="1">0.5</parameter>
+	<parameter name="triggerReleaseValue" type="float" title="Trigger Release Value" group="Axes Release Values" min="0" max="1">0.5</parameter>
+</property>

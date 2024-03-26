@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>b3b7f01f63d10f67a5d1e40663fc1ef1076d27cd</guid>
+	<type>material</type>
+	<hash>c1e30978</hash>
+	<runtimes>
+		<runtime id="b3b7f01f63d10f67a5d1e40663fc1ef1076d27cd" name="laser_ray_mat_9" link="0" type="5"/>
+	</runtimes>
+</asset>

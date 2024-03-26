@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.18.0.1" name="VRControllerInput" guid="966f78f019b7b78faadd3fa247d7ba990fad6324" parent="7a92b22a4ef8bb81a95edeec681e4d5b26ae22fe" editable="0">
+	<struct name="Bind">
+		<parameter name="bindType" type="switch" title="Bind Type" items="NONE,BUTTON,TOUCH,CLICK_ON_AXIS">0</parameter>
+		<parameter name="button" type="switch" bindType="1" items="LEFT_A,LEFT_APPLICATIONMENU,LEFT_AXIS0,LEFT_AXIS1,LEFT_AXIS2,LEFT_AXIS3,LEFT_AXIS4,LEFT_DASHBOARD_BACK,LEFT_DPAD_DOWN,LEFT_DPAD_LEFT,LEFT_DPAD_RIGHT,LEFT_DPAD_UP,LEFT_GRIP,LEFT_STEAMVR_TOUCHPAD,LEFT_STEAMVR_TRIGGER,LEFT_SYSTEM,RIGHT_A,RIGHT_APPLICATIONMENU,RIGHT_AXIS0,RIGHT_AXIS1,RIGHT_AXIS2,RIGHT_AXIS3,RIGHT_AXIS4,RIGHT_DASHBOARD_BACK,RIGHT_DPAD_DOWN,RIGHT_DPAD_LEFT,RIGHT_DPAD_RIGHT,RIGHT_DPAD_UP,RIGHT_GRIP,RIGHT_STEAMVR_TOUCHPAD,RIGHT_STEAMVR_TRIGGER,RIGHT_SYSTEM">0</parameter>
+		<parameter name="touch" type="switch" bindType="2" items="LEFT_A,LEFT_APPLICATIONMENU,LEFT_AXIS0,LEFT_AXIS1,LEFT_AXIS2,LEFT_AXIS3,LEFT_AXIS4,LEFT_DASHBOARD_BACK,LEFT_DPAD_DOWN,LEFT_DPAD_LEFT,LEFT_DPAD_RIGHT,LEFT_DPAD_UP,LEFT_GRIP,LEFT_STEAMVR_TOUCHPAD,LEFT_STEAMVR_TRIGGER,LEFT_SYSTEM,RIGHT_A,RIGHT_APPLICATIONMENU,RIGHT_AXIS0,RIGHT_AXIS1,RIGHT_AXIS2,RIGHT_AXIS3,RIGHT_AXIS4,RIGHT_DASHBOARD_BACK,RIGHT_DPAD_DOWN,RIGHT_DPAD_LEFT,RIGHT_DPAD_RIGHT,RIGHT_DPAD_UP,RIGHT_GRIP,RIGHT_STEAMVR_TOUCHPAD,RIGHT_STEAMVR_TRIGGER,RIGHT_SYSTEM">0</parameter>
+		<parameter name="clickableAxis" type="switch" title="Clickable Axis" bindType="3" items="JOYSTICK_VERTICAL,JOYSTICK_HORIZONTAL,JOYSTICK_UP,JOYSTICK_RIGHT,JOYSTICK_DOWN,JOYSTICK_LEFT,TRIGGER,TRIGGER_UP,TRIGGER_DOWN">0</parameter>
+	</struct>
+	<parameter name="side" type="switch" group="Bind" items="LEFT,RIGHT">0</parameter>
+	<parameter name="grabButton" type="Bind" title="Grab Button" group="Bind"/>
+	<parameter name="useButton" type="Bind" title="Use Button" group="Bind"/>
+	<parameter name="teleportationButton" type="Bind" title="Teleportation Button" group="Bind"/>
+	<parameter name="actionButton" type="Bind" title="Action Button" group="Bind"/>
+	<parameter name="triggerAxis" type="switch" title="Trigger Axis" group="Bind" items="JOYSTICK_VERTICAL,JOYSTICK_HORIZONTAL,JOYSTICK_UP,JOYSTICK_RIGHT,JOYSTICK_DOWN,JOYSTICK_LEFT,TRIGGER,TRIGGER_UP,TRIGGER_DOWN">4</parameter>
+	<parameter name="grabAxis" type="switch" title="Grab Axis" group="Bind" items="JOYSTICK_VERTICAL,JOYSTICK_HORIZONTAL,JOYSTICK_UP,JOYSTICK_RIGHT,JOYSTICK_DOWN,JOYSTICK_LEFT,TRIGGER,TRIGGER_UP,TRIGGER_DOWN">4</parameter>
+</property>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>7ec5294542a089e00c6533bf3dd7ae124f7ff649</guid>
+	<type>component</type>
+	<hash>f7d11e62</hash>
+	<runtimes>
+		<runtime id="7ec5294542a089e00c6533bf3dd7ae124f7ff649" name="VRBaseInteraction.cs" link="0"/>
+		<runtime id="841c0b473848cffa6a691f118ecf4d3ca097c76b" name="VRBaseInteraction.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

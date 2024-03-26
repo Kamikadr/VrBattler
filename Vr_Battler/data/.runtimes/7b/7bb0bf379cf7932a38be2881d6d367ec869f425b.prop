@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.18.0.1" name="HandController" guid="7bb0bf379cf7932a38be2881d6d367ec869f425b" parent="5a15dc4c08bd6b3b9f89e75ee0cd2725370fae40" editable="0">
+	<parameter name="handPositionOffset" type="vec3" title="Hand Position Offset" group="Hand Controller">0.00700000022 -0.0179999992 0.0179999992</parameter>
+	<parameter name="handRotationOffset" type="vec3" title="Hand Rotation Offset" group="Hand Controller">-33 0 0</parameter>
+	<parameter name="showHandTransform" type="toggle" title="Show Hand Transform" group="Hand Controller">0</parameter>
+</property>

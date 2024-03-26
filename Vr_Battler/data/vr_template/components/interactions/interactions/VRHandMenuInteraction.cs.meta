@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>29d270702fdb490f2c24a322019cc819539012a4</guid>
+	<type>component</type>
+	<hash>9ace844</hash>
+	<runtimes>
+		<runtime id="29d270702fdb490f2c24a322019cc819539012a4" name="VRHandMenuInteraction.cs" link="0"/>
+		<runtime id="99fe91cbb9463cae8e2b5c35bc8cc010a5ab142f" name="VRHandMenuInteraction.prop" link="1" type="4"/>
+	</runtimes>
+</asset>
